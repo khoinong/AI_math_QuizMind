@@ -1,0 +1,30 @@
+# Deep Learning and Machine Learning
+torch>=2.0.0
+transformers
+scikit-learn>=1.3.0
+seqeval>=1.2.2
+datasets>=2.10.0
+tf_keras 
+tensorflow
+
+
+# Data Processing
+numpy<=1.24.3  # Pinned version to ensure compatibility
+pandas>=2.0.0
+seaborn>=0.12.0
+matplotlib>=3.7.0
+tabulate
+# NLP Tools
+nltk>=3.8.1
+spacy>=3.6.0
+
+# Utilities
+tqdm>=4.65.0
+jsonlines>=3.1.0
+PyYAML>=6.0
+python-dotenv>=1.0.0
+
+# Development Tools
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.1.0

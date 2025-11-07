@@ -1,0 +1,138 @@
+[
+  {
+    "sentence": "lan có 8 cái kẹo",
+    "results": [
+      {
+        "agent": "lan",
+        "relation": "có",
+        "value": "8",
+        "unit": "cái",
+        "attribute": "kẹo"
+      }
+    ]
+  },
+  {
+    "sentence": "mai có 5 quả táo , mẹ cho thêm 3 quả nữa",
+    "results": [
+      {
+        "agent": "mai",
+        "relation": "có",
+        "value": "5",
+        "unit": "quả",
+        "attribute": "táo"
+      },
+      {
+        "agent": "mẹ",
+        "relation": "thêm",
+        "value": "3",
+        "unit": "quả",
+        "attribute": "nữa"
+      }
+    ]
+  },
+  {
+    "sentence": "nam có 2 cái bút",
+    "results": [
+      {
+        "agent": "nam",
+        "relation": "có",
+        "value": "2",
+        "unit": "cái",
+        "attribute": "bút"
+      }
+    ]
+  },
+  {
+    "sentence": "một con thỏ có 4 cái chân",
+    "results": [
+      {
+        "agent": "một"
+      },
+      {
+        "agent": "thỏ",
+        "relation": "có",
+        "value": "4",
+        "unit": "cái",
+        "attribute": "chân"
+      }
+    ]
+  },
+  {
+    "sentence": "hai bạn được 5 cái kẹo",
+    "results": [
+      {
+        "agent": "bạn",
+        "relation": "được",
+        "value": "5",
+        "unit": "cái",
+        "attribute": "kẹo"
+      }
+    ]
+  },
+  {
+    "sentence": "ba em ăn 2 trái cam",
+    "results": [
+      {
+        "agent": "ba"
+      },
+      {
+        "agent": "em",
+        "relation": "ăn",
+        "value": "2",
+        "unit": "trái",
+        "attribute": "cam"
+      }
+    ]
+  },
+  {
+    "sentence": "năm cô nhận 12 bông hoa",
+    "results": [
+      {
+        "agent": "cô",
+        "relation": "nhận",
+        "value": "12",
+        "unit": "bông",
+        "attribute": "hoa"
+      }
+    ]
+  },
+  {
+    "sentence": "bốn con có 8 chiếc lá",
+    "results": [
+      {
+        "agent": "con",
+        "relation": "có",
+        "value": "8",
+        "unit": "chiếc",
+        "attribute": "lá"
+      }
+    ]
+  },
+  {
+    "sentence": "lan có 10 quả cam ăn 3 quả cam",
+    "results": [
+      {
+        "agent": "lan",
+        "relation": "ăn",
+        "value": "3",
+        "unit": "quả",
+        "attribute": "cam"
+      }
+    ]
+  },
+  {
+    "sentence": "mười anh bán 20 kg thịt",
+    "results": [
+      {
+        "agent": "mười"
+      },
+      {
+        "agent": "anh",
+        "relation": "bán",
+        "value": "20",
+        "unit": "kg",
+        "attribute": "thịt"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1368 @@
+{"text": "một hộp có 52 viên bi 27 hộp có mấy viên bi", "breaks": [5]}
+{"text": "có 44 quả xoài , chia đều cho 5, người , mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "nam có 9 quả cam , hoa nhiều hơn nam 2 quả , hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "an nặng 45kg bình nặng hơn an 1kg hỏi bình nặng bao nhiêu kg", "breaks": [2, 7]}
+{"text": "lan có 33 quả cam hoa nhiều hơn lan 32 quả, hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "an có 24 quyển vở, cho an 15 quyển hỏi an còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "lan có 87 quả cam minh nhiều hơn lan 42 quả, hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lan có 12 quả táo mẹ cho thêm 1 quả nữa, hỏi lan có mấy quả táo", "breaks": [4, 10]}
+{"text": "thu có 67 cây bút, cho thu 43 cây hỏi thu còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "có 55 viên kẹo , chia đều cho 4 người , mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "một bàn học có 100 chân 39 bàn học có mấy chân", "breaks": [5]}
+{"text": "trên bàn có 99 quyển vở , lấy đi 17 quyển , hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "lớp học có 76 học sinh. có 28 bạn nam. hỏi có bao nhiêu bạn nữ.", "breaks": [5, 9]}
+{"text": "có 11 kg gạo, chia đều cho 11 gia đình hỏi mỗi gia đình được mấy kg gạo", "breaks": [3, 9]}
+{"text": "trường có 77 phòng học , xây thêm 48 phòng , hỏi trường có tất cả bao nhiêu phòng", "breaks": [4, 8]}
+{"text": "trong giỏ có 94 quả táo., lấy đi 13 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "có 44 quả xoài chia đều cho 5 người, mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "huy có 44 quả cam. minh nhiều hơn huy 39 quả. hỏi minh có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "tu có 3 viên bi, , cho tu 3 viên , hỏi tu còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "trong rổ có 33 quả cam., lấy đi 16 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "có 72 quả táo., chia đều cho 5 bạn. hỏi mỗi bạn được mấy quả táo.", "breaks": [3, 8]}
+{"text": "lan có 33 quả cam. hoa nhiều hơn lan 32 quả. hỏi hoa có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "có 70 quả xoài , chia đều cho 2 người , mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "trong hộp có 2 quả táo , lấy đi 1 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "nam có 23 quả cam, , bình nhiều hơn nam 22 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một tòa nhà có 58 tầng 17 tòa nhà có mấy tầng", "breaks": [5]}
+{"text": "một bông hoa có 14 cánh 3 bông hoa có mấy cánh", "breaks": [5]}
+{"text": "một con gà có 9 cái 3 con gà có mấy cái", "breaks": [5]}
+{"text": "nam có 98 quả cam , cho nam 43 quả , hỏi nam còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "lan có 49 quả cam., thu nhiều hơn lan 37 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "lan có 40 cây bút, cho lan 7 cây hỏi lan còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "nam có 86 quả cam. thu nhiều hơn nam 45 quả., hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "thư viện có 38 ghế , mượn đi 17 ghế , hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "có 32 chiếc bánh., chia đều cho 3 người. mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "an có 83 quả cam. bình nhiều hơn an 45 quả., hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "một con gà có 27 cái., 27 con gà có mấy cái.", "breaks": [5]}
+{"text": "nam có 9 quả cam, hoa nhiều hơn nam 2 quả hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 21 viên kẹo, chia đều cho 4 người mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "có 16 quyển vở , chia đều cho 4 lớp , hỏi mỗi lớp được mấy quyển vở", "breaks": [3, 8]}
+{"text": "có 70 quả xoài chia đều cho 2 người, mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "tu có 97 quả cam cho tu 40 quả hỏi tu còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "có 24 viên kẹo, , chia đều cho 2 người , mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "nam có 9 quả cam. hoa nhiều hơn nam 2 quả., hỏi hoa có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "lan có 14 quả táo , nam hơn lan 10 quả , hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "thư viện có 38 ghế mượn đi 8 ghế hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "thư viện có 38 ghế , mượn đi 8 ghế , hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "lan có 88 quả cam. minh nhiều hơn lan 13 quả. hỏi minh có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "có 23 viên kẹo, chia đều cho 4 người mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "linh có 8 viên bi , cho linh 6 viên , hỏi linh còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "nam có 98 quả cam., cho nam 43 quả. hỏi nam còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "có 25 chiếc bánh chia đều cho 3 người mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "mai có 97 quả cam thu nhiều hơn mai 30 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một cây bút có 84 cái , 46 cây bút có mấy cái", "breaks": [5]}
+{"text": "lớp học có 37 học sinh , có 8 bạn nam , hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "có 8 cái kẹo , chia đều cho 2 học sinh , hỏi mỗi học sinh được mấy cái kẹo", "breaks": [3, 9]}
+{"text": "thu có 67 cây bút , cho thu 43 cây , hỏi thu còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "có 23 viên kẹo , chia đều cho 4, người , mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "có 27 quyển vở. chia đều cho 3 người. mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "lan có 12 quả táo mẹ cho thêm 1 quả nữa hỏi lan có mấy quả táo", "breaks": [4, 10]}
+{"text": "hoa có 24 viên bi , cho hoa 18 viên , hỏi hoa còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "có 21 cây bút., chia đều cho 7 nhóm. hỏi mỗi nhóm được mấy cây bút.", "breaks": [3, 8]}
+{"text": "an có 84 quyển vở. cho an 19 quyển., hỏi an còn lại bao nhiêu quyển.", "breaks": [4, 8]}
+{"text": "trường có 77 phòng học , xây thêm 48 phòng , hỏi trường có tất cả bao nhiêu phòng", "breaks": [4, 8]}
+{"text": "một con gà có 9 cái, 3 con gà có mấy cái", "breaks": [5]}
+{"text": "có 68 quả táo chia đều cho 32 bạn hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "mai có 97 quả cam , thu nhiều hơn mai 30 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 69 bánh kẹo, chia đều cho 4 người mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "lan có 66 quả cam, , thu nhiều hơn lan 25 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong rổ có 77 chiếc bánh lấy đi 6 chiếc, hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "có 53 cái kẹo , chia đều cho 8 học sinh , hỏi mỗi học sinh được mấy cái kẹo", "breaks": [3, 9]}
+{"text": "nam có 26 quả cam thu nhiều hơn nam 2 quả, hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "nam có 11 quả cam , thu nhiều hơn nam 9 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "nam có 26 quả cam, , thu nhiều hơn nam 2 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 69 chiếc bánh. chia đều cho 3 người. mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "một quả cam có 76 cái 21 quả cam có mấy cái", "breaks": [5]}
+{"text": "một bàn học có 70 chân. 48 bàn học có mấy chân.", "breaks": [5]}
+{"text": "có 71 quả táo chia đều cho 17 bạn hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "bình có 54 quyển vở. hoa ít hơn bình 35 quyển. hỏi hoa có bao nhiêu quyển vở.", "breaks": [4, 10]}
+{"text": "một bàn học có 70 chân, 48 bàn học có mấy chân", "breaks": [5]}
+{"text": "trong hộp có 12 quả cam , lấy đi 1, quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "an nặng 98kg , bình nặng hơn an 20kg , hỏi bình nặng bao nhiêu kg", "breaks": [2, 7]}
+{"text": "trong giỏ có 23 cái kẹo lấy đi 19 cái, hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "nam có 86 quả cam thu nhiều hơn nam 45 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong tủ có 58 quyển vở., lấy đi 50 quyển. hỏi còn lại bao nhiêu quyển.", "breaks": [5, 9]}
+{"text": "trên bàn có 8 cái kẹo., lấy đi 5 cái. hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "an có 27 quả cam. bình nhiều hơn an 7 quả., hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trên bàn có 99 quyển vở. lấy đi 17 quyển. hỏi còn lại bao nhiêu quyển.", "breaks": [5, 9]}
+{"text": "nam có 86 quả cam, thu nhiều hơn nam 45 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "nam có 9 chiếc bánh., cho nam 7 chiếc. hỏi nam còn lại bao nhiêu chiếc.", "breaks": [4, 8]}
+{"text": "an nặng 45kg bình nặng hơn an 1kg, hỏi bình nặng bao nhiêu kg", "breaks": [2, 7]}
+{"text": "trong tủ có 29 chiếc bánh. lấy đi 1 chiếc., hỏi còn lại bao nhiêu chiếc.", "breaks": [5, 9]}
+{"text": "an có 27 quả cam bình nhiều hơn an 7 quả hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "nam có 79 quả cam, minh nhiều hơn nam 21 quả hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong rổ có 5 quả táo , lấy đi 4 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "một xe bus có 53 chỗ ngồi. 6 xe bus có mấy chỗ ngồi.", "breaks": [6]}
+{"text": "có 1 quyển vở, chia đều cho 3 người mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "một quả cam có 51 cái, , 9 quả cam có mấy cái", "breaks": [5]}
+{"text": "một bàn học có 70 chân, , 48 bàn học có mấy chân", "breaks": [5]}
+{"text": "nam có 9 chiếc bánh , cho nam 7 chiếc , hỏi nam còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "lan có 66 quả cam. thu nhiều hơn lan 25 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "tu có 3 viên bi , cho tu 3 viên , hỏi tu còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "an có 27 quả cam, , bình nhiều hơn an 7 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một bông hoa có 37 cánh., 17 bông hoa có mấy cánh.", "breaks": [5]}
+{"text": "an có 15 quả cam, , bình nhiều hơn an 3 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một xe đạp có 97 bánh, , 7 xe đạp có mấy bánh", "breaks": [5]}
+{"text": "một bông hoa có 67 cánh, 24 bông hoa có mấy cánh", "breaks": [5]}
+{"text": "một bàn học có 41 chân , 12 bàn học có mấy chân", "breaks": [5]}
+{"text": "lan có 69 quả táo. nam hơn lan 11 quả., hỏi nam có mấy quả.", "breaks": [4, 9]}
+{"text": "hoa có 87 quả cam, cho hoa 13 quả hỏi hoa còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "một xe đạp có 97 bánh. 7 xe đạp có mấy bánh.", "breaks": [5]}
+{"text": "trong hộp có 2 quả táo. lấy đi 1 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "nam cao 73cm nam cao hơn minh 21cm, hỏi minh cao bao nhiêu cm", "breaks": [2, 7]}
+{"text": "một con gà có 9 cái, , 3 con gà có mấy cái", "breaks": [5]}
+{"text": "một con gà có 34 chân., 24 con gà có mấy chân.", "breaks": [5]}
+{"text": "có 21 cây bút chia đều cho 7 nhóm, hỏi mỗi nhóm được mấy cây bút", "breaks": [3, 8]}
+{"text": "lan có 45 quả cam, cho lan 37 quả hỏi lan còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "huy có 51 quả cam. thu nhiều hơn huy 23 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "hoa có 48 quả táo, cho hoa 47 quả hỏi hoa còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "có 21 viên kẹo. chia đều cho 4 người., mỗi người được bao nhiêu viên.", "breaks": [3, 8]}
+{"text": "lan có 88 quả táo , nam hơn lan 39 quả , hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "một cây bút có 87 cái , 4 cây bút có mấy cái", "breaks": [5]}
+{"text": "trên bàn có 77 cái kẹo , lấy đi 18, cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "lan có 40 cây bút cho lan 7 cây hỏi lan còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "nam có 63 quả cam , cho nam 9 quả , hỏi nam còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "lan có 88 quả cam , minh nhiều hơn lan 13 quả , hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 21 cây bút , chia đều cho 7 nhóm , hỏi mỗi nhóm được mấy cây bút", "breaks": [3, 8]}
+{"text": "huy có 91 cây bút , cho huy 20, cây , hỏi huy còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "lan có 45 quả cam. cho lan 37 quả. hỏi lan còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "một quả cam có 76 cái , 21 quả cam có mấy cái", "breaks": [5]}
+{"text": "tu có 81 viên bi , cho tu 33 viên , hỏi tu còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "trong hộp có 2 quả táo. lấy đi 1 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "một hộp có 52 viên bi 27 hộp có mấy viên bi", "breaks": [5]}
+{"text": "trong giỏ có 68 quả táo, lấy đi 16 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "có 25 chiếc bánh, chia đều cho 3 người mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "có 62 quả xoài. chia đều cho 3 người. mỗi người được bao nhiêu quả.", "breaks": [3, 8]}
+{"text": "linh có 8 viên bi, , cho linh 6 viên , hỏi linh còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "có 36 quyển vở , chia đều cho 5 người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "trên bàn có 51 quả táo, lấy đi 2 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "trong hộp có 100 quyển vở. lấy đi 45 quyển., hỏi còn lại bao nhiêu quyển.", "breaks": [5, 9]}
+{"text": "huy có 91 cây bút cho huy 20 cây hỏi huy còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "có 1 quyển vở , chia đều cho 3 người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "lan có 88 quả cam, minh nhiều hơn lan 13 quả hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lan có 88 quả cam minh nhiều hơn lan 13 quả hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong giỏ có 68 quả táo lấy đi 16 quả, hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "một bàn học có 70 chân. 48 bàn học có mấy chân.", "breaks": [5]}
+{"text": "mai có 91 quả cam., linh nhiều hơn mai 37 quả. hỏi linh có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "lớp học có 56 học sinh. có 11 bạn nam. hỏi có bao nhiêu bạn nữ.", "breaks": [5, 9]}
+{"text": "trong rổ có 33 quả cam lấy đi 16 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "thư viện có 38 ghế mượn đi 17 ghế hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "trong giỏ có 37 cái kẹo. lấy đi 19 cái. hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "trong tủ có 29 chiếc bánh , lấy đi 1 chiếc , hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "trong tủ có 65 quả cam , lấy đi 41 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "binh có 8 viên bi cho binh 6 viên hỏi binh còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "hoa có 48 quả táo , cho hoa 47 quả , hỏi hoa còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "huy có 76 quả cam , bình nhiều hơn huy 41 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lớp học có 35 học sinh., có 17 bạn nam. hỏi có bao nhiêu bạn nữ.", "breaks": [5, 9]}
+{"text": "có 44 quả xoài , chia đều cho 5 người , mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "có 59 bánh kẹo chia đều cho 5 người mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "trên bàn có 51 quả táo, , lấy đi 2 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "thu có 67 cây bút cho thu 43 cây hỏi thu còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "một cây bút có 91 cái 48 cây bút có mấy cái", "breaks": [5]}
+{"text": "hoa có 87 quả cam cho hoa 13 quả hỏi hoa còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "một lớp học có 94 bàn. 29 lớp học có mấy bàn.", "breaks": [5]}
+{"text": "trên bàn có 51 quả táo lấy đi 2 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "một bàn học có 41 chân , 12 bàn học có mấy chân", "breaks": [5]}
+{"text": "có 27 quyển vở , chia đều cho 3 người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "có 47 quyển vở chia đều cho 2 người, mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "một quả táo có 69 cái, 20 quả táo có mấy cái", "breaks": [5]}
+{"text": "có 8 cái kẹo. chia đều cho 2 học sinh. hỏi mỗi học sinh được mấy cái kẹo.", "breaks": [3, 9]}
+{"text": "trường có 77 phòng học , xây thêm 48, phòng , hỏi trường có tất cả bao nhiêu phòng", "breaks": [4, 8]}
+{"text": "thu có 67 cây bút, , cho thu 43 cây , hỏi thu còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "một xe đạp có 97 bánh , 7 xe đạp có mấy bánh", "breaks": [5]}
+{"text": "vườn có 5 cây xoài., chết 1 cây. hỏi vườn còn lại bao nhiêu cây.", "breaks": [4, 7]}
+{"text": "có 11 kg gạo , chia đều cho 11 gia, đình , hỏi mỗi gia đình được mấy kg gạo", "breaks": [3, 9]}
+{"text": "một quả cam có 51 cái. 9 quả cam có mấy cái.", "breaks": [5]}
+{"text": "hoa có 87 quả cam , cho hoa 13, quả , hỏi hoa còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "trong tủ có 29 chiếc bánh. lấy đi 1 chiếc. hỏi còn lại bao nhiêu chiếc.", "breaks": [5, 9]}
+{"text": "trong tủ có 65 quả cam, lấy đi 41 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "một bông hoa có 67 cánh. 24 bông hoa có mấy cánh.", "breaks": [5]}
+{"text": "trong rổ có 80 cái kẹo , lấy đi 23 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "nam có 86 quả cam, , thu nhiều hơn nam 45 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một bông hoa có 14 cánh 3 bông hoa có mấy cánh", "breaks": [5]}
+{"text": "có 62 quả xoài, , chia đều cho 3 người , mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "một cây bút có 84 cái 46 cây bút có mấy cái", "breaks": [5]}
+{"text": "có 1 quyển vở. chia đều cho 3 người., mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "trên bàn có 21 chiếc bánh lấy đi 16 chiếc, hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "nam có 79 quả cam , minh nhiều hơn nam 21 quả , hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 62 quả xoài. chia đều cho 3 người., mỗi người được bao nhiêu quả.", "breaks": [3, 8]}
+{"text": "bình có 54 quyển vở, hoa ít hơn bình 35 quyển hỏi hoa có bao nhiêu quyển vở", "breaks": [4, 10]}
+{"text": "có 21 cây bút. chia đều cho 7 nhóm., hỏi mỗi nhóm được mấy cây bút.", "breaks": [3, 8]}
+{"text": "trên bàn có 51 quả táo. lấy đi 2 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "trong rổ có 12 quả cam , lấy đi 2 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "một xe bus có 95 chỗ ngồi. 38 xe bus có mấy chỗ ngồi.", "breaks": [6]}
+{"text": "trong hộp có 100 quyển vở lấy đi 45 quyển hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "một con gà có 9 cái., 3 con gà có mấy cái.", "breaks": [5]}
+{"text": "an có 59 quả cam., hoa nhiều hơn an 39 quả. hỏi hoa có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "lan có 87 quả cam. minh nhiều hơn lan 42 quả. hỏi minh có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "một con gà có 27 cái. 27 con gà có mấy cái.", "breaks": [5]}
+{"text": "lan có 12 quả táo , mẹ cho thêm 1 quả, nữa , hỏi lan có mấy quả táo", "breaks": [4, 10]}
+{"text": "có 27 quyển vở , chia đều cho 3, người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "có 59 bánh kẹo chia đều cho 5 người, mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "một quả táo có 69 cái 20 quả táo có mấy cái", "breaks": [5]}
+{"text": "có 44 quả xoài, , chia đều cho 5 người , mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "một bông hoa có 67 cánh , 24 bông hoa có mấy cánh", "breaks": [5]}
+{"text": "thu có 23 cái kẹo. cho thu 17 cái. hỏi thu còn lại bao nhiêu cái.", "breaks": [4, 8]}
+{"text": "một hộp có 65 viên bi 18 hộp có mấy viên bi", "breaks": [5]}
+{"text": "một con gà có 34 chân , 24 con gà có mấy chân", "breaks": [5]}
+{"text": "có 24 viên kẹo. chia đều cho 2 người. mỗi người được bao nhiêu viên.", "breaks": [3, 8]}
+{"text": "bình có 54 quyển vở, , hoa ít hơn bình 35 quyển , hỏi hoa có bao nhiêu quyển vở", "breaks": [4, 10]}
+{"text": "linh có 8 viên bi , cho linh 6 viên , hỏi linh còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "trên bàn có 21 chiếc bánh. lấy đi 16 chiếc. hỏi còn lại bao nhiêu chiếc.", "breaks": [5, 9]}
+{"text": "một xe bus có 53 chỗ ngồi, 6 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "nam có 79 quả cam , minh nhiều hơn nam 21, quả , hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "an có 27 quả cam. bình nhiều hơn an 7 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "có 11 kg gạo, , chia đều cho 11 gia đình , hỏi mỗi gia đình được mấy kg gạo", "breaks": [3, 9]}
+{"text": "lan có 87 quả cam. minh nhiều hơn lan 42 quả., hỏi minh có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trong giỏ có 37 cái kẹo, , lấy đi 19 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "huy có 76 quả cam. bình nhiều hơn huy 41 quả., hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "an có 24 quyển vở , cho an 15, quyển , hỏi an còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "trong giỏ có 37 cái kẹo , lấy đi 19, cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "có 69 bánh kẹo. chia đều cho 4 người. mỗi người được bao nhiêu bánh.", "breaks": [3, 8]}
+{"text": "trên bàn có 77 cái kẹo , lấy đi 18 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "lan có 12 quả táo , mẹ cho thêm 1 quả nữa , hỏi lan có mấy quả táo", "breaks": [4, 10]}
+{"text": "lớp học có 56 học sinh , có 11 bạn nam , hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "trong tủ có 65 quả cam. lấy đi 41 quả., hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "trong rổ có 77 chiếc bánh., lấy đi 6 chiếc. hỏi còn lại bao nhiêu chiếc.", "breaks": [5, 9]}
+{"text": "có 71 quả táo chia đều cho 17 bạn, hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "có 47 quyển vở chia đều cho 2 người mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "thu có 67 cây bút , cho thu 43 cây , hỏi thu còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "trong giỏ có 23 cái kẹo lấy đi 19 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "hoa có 48 quả táo, , cho hoa 47 quả , hỏi hoa còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "có 1 chiếc bánh , chia đều cho 5 người , mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "có 53 cái kẹo , chia đều cho 8 học sinh , hỏi mỗi học sinh được mấy cái kẹo", "breaks": [3, 9]}
+{"text": "trên bàn có 8 cái kẹo , lấy đi 5 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "lan có 66 quả cam , thu nhiều hơn lan 25, quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 62 quả xoài chia đều cho 3 người mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "nam có 7 chiếc bánh. cho nam 6 chiếc., hỏi nam còn lại bao nhiêu chiếc.", "breaks": [4, 8]}
+{"text": "có 4 quyển vở., chia đều cho 3 người. mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "trong giỏ có 23 cái kẹo, , lấy đi 19 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "huy có 49 quả cam , cho huy 39 quả , hỏi huy còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "có 21 cây bút, , chia đều cho 7 nhóm , hỏi mỗi nhóm được mấy cây bút", "breaks": [3, 8]}
+{"text": "tu có 81 viên bi, , cho tu 33 viên , hỏi tu còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "thu có 90 cái kẹo , cho thu 33, cái , hỏi thu còn lại bao nhiêu cái", "breaks": [4, 8]}
+{"text": "một bàn học có 100 chân. 39 bàn học có mấy chân.", "breaks": [5]}
+{"text": "có 52 kg gạo, , chia đều cho 40 gia đình , hỏi mỗi gia đình được mấy kg gạo", "breaks": [3, 9]}
+{"text": "lan có 45 quả cam cho lan 37 quả hỏi lan còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "trong rổ có 5 quả táo. lấy đi 4 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "nam có 63 quả cam , cho nam 9, quả , hỏi nam còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "trong hộp có 100 quyển vở, , lấy đi 45 quyển , hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "trong rổ có 30 quả táo, , lấy đi 12 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "lan có 14 quả táo. nam hơn lan 10 quả., hỏi nam có mấy quả.", "breaks": [4, 9]}
+{"text": "huy có 44 quả cam , minh nhiều hơn huy 39, quả , hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một con gà có 19 chân 1 con gà có mấy chân", "breaks": [5]}
+{"text": "trong giỏ có 68 quả táo., lấy đi 16 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "trong rổ có 12 quả cam , lấy đi 2 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "có 68 quả táo, , chia đều cho 32 bạn , hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "một bông hoa có 14 cánh., 3 bông hoa có mấy cánh.", "breaks": [5]}
+{"text": "huy có 44 quả cam, minh nhiều hơn huy 39 quả hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong tủ có 29 chiếc bánh. lấy đi 1 chiếc. hỏi còn lại bao nhiêu chiếc.", "breaks": [5, 9]}
+{"text": "trên bàn có 8 cái kẹo lấy đi 5 cái, hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "trong giỏ có 23 cái kẹo. lấy đi 19 cái. hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "trong rổ có 33 quả cam , lấy đi 16, quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "trong tủ có 58 quyển vở , lấy đi 50 quyển , hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "trên bàn có 8 cái kẹo. lấy đi 5 cái. hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "thu có 90 cái kẹo., cho thu 33 cái. hỏi thu còn lại bao nhiêu cái.", "breaks": [4, 8]}
+{"text": "nam có 7 chiếc bánh, , cho nam 6 chiếc , hỏi nam còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "lan có 88 quả cam. minh nhiều hơn lan 13 quả. hỏi minh có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "lan có 66 quả cam thu nhiều hơn lan 25 quả, hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong tủ có 58 quyển vở lấy đi 50 quyển, hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "một quả táo có 69 cái. 20 quả táo có mấy cái.", "breaks": [5]}
+{"text": "thư viện có 38 ghế. mượn đi 8 ghế., hỏi thư viện còn lại bao nhiêu ghế.", "breaks": [4, 8]}
+{"text": "huy có 62 quả cam hoa nhiều hơn huy 4 quả, hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "thư viện có 38 ghế , mượn đi 17, ghế , hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "có 62 quả xoài , chia đều cho 3, người , mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "một xe bus có 72 chỗ ngồi. 49 xe bus có mấy chỗ ngồi.", "breaks": [6]}
+{"text": "lan có 14 quả táo nam hơn lan 10 quả, hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "một con gà có 27 cái , 27 con gà có mấy cái", "breaks": [5]}
+{"text": "có 21 cây bút chia đều cho 7 nhóm hỏi mỗi nhóm được mấy cây bút", "breaks": [3, 8]}
+{"text": "có 69 bánh kẹo. chia đều cho 4 người. mỗi người được bao nhiêu bánh.", "breaks": [3, 8]}
+{"text": "nam có 98 quả cam cho nam 43 quả, hỏi nam còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "nam có 23 quả cam. bình nhiều hơn nam 22 quả., hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "lan có 87 quả cam, , minh nhiều hơn lan 42 quả , hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một tòa nhà có 58 tầng, 17 tòa nhà có mấy tầng", "breaks": [5]}
+{"text": "lan có 88 quả cam, , minh nhiều hơn lan 13 quả , hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 24 viên kẹo., chia đều cho 2 người. mỗi người được bao nhiêu viên.", "breaks": [3, 8]}
+{"text": "trên bàn có 8 cái kẹo lấy đi 5 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "có 36 quyển vở, , chia đều cho 5 người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "một quả cam có 80 cái , 31 quả cam có mấy cái", "breaks": [5]}
+{"text": "nam có 9 chiếc bánh cho nam 7 chiếc hỏi nam còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "thư viện có 38 ghế. mượn đi 17 ghế., hỏi thư viện còn lại bao nhiêu ghế.", "breaks": [4, 8]}
+{"text": "có 52 kg gạo. chia đều cho 40 gia đình. hỏi mỗi gia đình được mấy kg gạo.", "breaks": [3, 9]}
+{"text": "nam có 79 quả cam, , minh nhiều hơn nam 21 quả , hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 21 viên kẹo , chia đều cho 4 người , mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "trên bàn có 77 cái kẹo lấy đi 18 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "trong tủ có 58 quyển vở lấy đi 50 quyển hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "một xe bus có 95 chỗ ngồi , 38 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "có 8 cái kẹo, chia đều cho 2 học sinh hỏi mỗi học sinh được mấy cái kẹo", "breaks": [3, 9]}
+{"text": "một cái bàn có 11 cái , 8 cái bàn có mấy cái", "breaks": [5]}
+{"text": "trong tủ có 58 quyển vở lấy đi 50 quyển hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "một hộp có 65 viên bi, , 18 hộp có mấy viên bi", "breaks": [5]}
+{"text": "có 21 cây bút chia đều cho 7 nhóm hỏi mỗi nhóm được mấy cây bút", "breaks": [3, 8]}
+{"text": "lớp học có 35 học sinh có 17 bạn nam hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "có 1 quyển vở, , chia đều cho 3 người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "an nặng 98kg , bình nặng hơn an, 20kg , hỏi bình nặng bao nhiêu kg", "breaks": [2, 7]}
+{"text": "một quả cam có 76 cái 21 quả cam có mấy cái", "breaks": [5]}
+{"text": "lan có 88 quả cam minh nhiều hơn lan 13 quả, hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "thư viện có 33 ghế. mượn đi 11 ghế. hỏi thư viện còn lại bao nhiêu ghế.", "breaks": [4, 8]}
+{"text": "nam có 9 chiếc bánh , cho nam 7 chiếc , hỏi nam còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "có 69 bánh kẹo , chia đều cho 4 người , mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "một xe bus có 72 chỗ ngồi. 49 xe bus có mấy chỗ ngồi.", "breaks": [6]}
+{"text": "huy có 49 quả cam cho huy 39 quả, hỏi huy còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "lan có 14 quả táo nam hơn lan 10 quả hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "nam có 7 chiếc bánh cho nam 6 chiếc hỏi nam còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "tủ có 68 quyển sách. mua thêm 47 quyển nữa. hỏi tủ có tất cả bao nhiêu quyển sách.", "breaks": [4, 9]}
+{"text": "có 44 quả xoài chia đều cho 5 người mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "linh có 8 viên bi cho linh 6 viên hỏi linh còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "an có 59 quả cam. hoa nhiều hơn an 39 quả., hỏi hoa có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trên bàn có 23 cái kẹo lấy đi 12 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "linh có 72 quyển vở. cho linh 44 quyển., hỏi linh còn lại bao nhiêu quyển.", "breaks": [4, 8]}
+{"text": "có 59 bánh kẹo, chia đều cho 5 người mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "tủ sách có 23 quyển., cho 22 người mượn mỗi người 2 quyển. hỏi còn lại bao nhiêu quyển.", "breaks": [4, 12]}
+{"text": "có 8 cái kẹo chia đều cho 2 học sinh hỏi mỗi học sinh được mấy cái kẹo", "breaks": [3, 9]}
+{"text": "có 98 bánh kẹo, , chia đều cho 3 người , mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "linh có 8 viên bi. cho linh 6 viên., hỏi linh còn lại bao nhiêu viên.", "breaks": [4, 8]}
+{"text": "nam có 98 quả cam, cho nam 43 quả hỏi nam còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "trong tủ có 65 quả cam. lấy đi 41 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "có 59 bánh kẹo. chia đều cho 5 người. mỗi người được bao nhiêu bánh.", "breaks": [3, 8]}
+{"text": "trong hộp có 2 quả táo , lấy đi 1, quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "nam có 98 quả cam cho nam 43 quả hỏi nam còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "an có 27 quả cam. bình nhiều hơn an 7 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "một tòa nhà có 58 tầng 17 tòa nhà có mấy tầng", "breaks": [5]}
+{"text": "một xe bus có 72 chỗ ngồi., 49 xe bus có mấy chỗ ngồi.", "breaks": [6]}
+{"text": "thu có 67 cây bút cho thu 43 cây hỏi thu còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "trong hộp có 100 quyển vở., lấy đi 45 quyển. hỏi còn lại bao nhiêu quyển.", "breaks": [5, 9]}
+{"text": "có 71 quả táo , chia đều cho 17 bạn , hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "một bông hoa có 14 cánh. 3 bông hoa có mấy cánh.", "breaks": [5]}
+{"text": "có 21 viên kẹo , chia đều cho 4, người , mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "một lớp học có 29 bàn, 25 lớp học có mấy bàn", "breaks": [5]}
+{"text": "mai có 91 quả cam, , linh nhiều hơn mai 37 quả , hỏi linh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "linh có 8 viên bi. cho linh 6 viên. hỏi linh còn lại bao nhiêu viên.", "breaks": [4, 8]}
+{"text": "thư viện có 33 ghế, , mượn đi 11 ghế , hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "an có 24 quyển vở. cho an 15 quyển. hỏi an còn lại bao nhiêu quyển.", "breaks": [4, 8]}
+{"text": "lan có 45 quả cam. cho lan 37 quả., hỏi lan còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "có 25 chiếc bánh. chia đều cho 3 người. mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "có 68 quả táo , chia đều cho 32 bạn , hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "có 69 bánh kẹo, , chia đều cho 4 người , mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "có 55 viên kẹo. chia đều cho 4 người. mỗi người được bao nhiêu viên.", "breaks": [3, 8]}
+{"text": "trong hộp có 12 quả cam., lấy đi 1 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "trong hộp có 12 quả cam lấy đi 1 quả, hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "an có 84 quyển vở., cho an 19 quyển. hỏi an còn lại bao nhiêu quyển.", "breaks": [4, 8]}
+{"text": "an nặng 98kg bình nặng hơn an 20kg hỏi bình nặng bao nhiêu kg", "breaks": [2, 7]}
+{"text": "có 11 kg gạo., chia đều cho 11 gia đình. hỏi mỗi gia đình được mấy kg gạo.", "breaks": [3, 9]}
+{"text": "lan có 40 cây bút , cho lan 7, cây , hỏi lan còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "lan có 69 quả táo. nam hơn lan 11 quả. hỏi nam có mấy quả.", "breaks": [4, 9]}
+{"text": "thư viện có 38 ghế. mượn đi 8 ghế. hỏi thư viện còn lại bao nhiêu ghế.", "breaks": [4, 8]}
+{"text": "huy có 62 quả cam. hoa nhiều hơn huy 4 quả. hỏi hoa có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trong tủ có 65 quả cam lấy đi 41 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "vườn có 5 cây xoài , chết 1 cây , hỏi vườn còn lại bao nhiêu cây", "breaks": [4, 7]}
+{"text": "an có 45 quả cam bình nhiều hơn an 2 quả, hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "huy có 91 cây bút. cho huy 20 cây. hỏi huy còn lại bao nhiêu cây.", "breaks": [4, 8]}
+{"text": "có 59 bánh kẹo., chia đều cho 5 người. mỗi người được bao nhiêu bánh.", "breaks": [3, 8]}
+{"text": "có 23 viên kẹo chia đều cho 4 người mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "an có 59 quả cam , hoa nhiều hơn an 39 quả , hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lan có 88 quả cam minh nhiều hơn lan 13 quả hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một xe đạp có 97 bánh 7 xe đạp có mấy bánh", "breaks": [5]}
+{"text": "hoa có 87 quả cam. cho hoa 13 quả. hỏi hoa còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "nam cao 73cm , nam cao hơn minh 21cm , hỏi minh cao bao nhiêu cm", "breaks": [2, 7]}
+{"text": "trong hộp có 100 quyển vở lấy đi 45 quyển hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "trong hộp có 92 cái kẹo lấy đi 21 cái, hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "an nặng 98kg, bình nặng hơn an 20kg hỏi bình nặng bao nhiêu kg", "breaks": [2, 7]}
+{"text": "huy có 51 quả cam , thu nhiều hơn huy 23 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lan có 49 quả cam thu nhiều hơn lan 37 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "tu có 81 viên bi, cho tu 33 viên hỏi tu còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "lan có 87 quả cam., minh nhiều hơn lan 42 quả. hỏi minh có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "binh có 8 viên bi. cho binh 6 viên. hỏi binh còn lại bao nhiêu viên.", "breaks": [4, 8]}
+{"text": "có 68 quả táo , chia đều cho 32 bạn , hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "một bông hoa có 37 cánh , 17 bông hoa có mấy cánh", "breaks": [5]}
+{"text": "có 68 quả táo chia đều cho 32 bạn hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "trong giỏ có 94 quả táo , lấy đi 13 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "huy có 44 quả cam minh nhiều hơn huy 39 quả, hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lớp a có 43 học sinh lớp b nhiều hơn lớp a 37 học sinh hỏi lớp b có bao nhiêu học sinh", "breaks": [5, 14]}
+{"text": "nam có 7 chiếc bánh, cho nam 6 chiếc hỏi nam còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "trong giỏ có 94 quả táo, , lấy đi 13 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "an có 15 quả cam, bình nhiều hơn an 3 quả hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lan có 66 quả cam , thu nhiều hơn lan 25 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong rổ có 80 cái kẹo lấy đi 23 cái, hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "có 27 quyển vở, chia đều cho 3 người mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "có 4 quyển vở , chia đều cho 3 người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "có 27 quyển vở. chia đều cho 3 người., mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "có 11 kg gạo. chia đều cho 11 gia đình. hỏi mỗi gia đình được mấy kg gạo.", "breaks": [3, 9]}
+{"text": "trong rổ có 12 quả cam, , lấy đi 2 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "một cây bút có 84 cái, , 46 cây bút có mấy cái", "breaks": [5]}
+{"text": "một hộp có 52 viên bi, , 27 hộp có mấy viên bi", "breaks": [5]}
+{"text": "có 1 chiếc bánh, chia đều cho 5 người mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "có 68 quả táo chia đều cho 32 bạn, hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "một cái bàn có 11 cái. 8 cái bàn có mấy cái.", "breaks": [5]}
+{"text": "hoa có 24 viên bi., cho hoa 18 viên. hỏi hoa còn lại bao nhiêu viên.", "breaks": [4, 8]}
+{"text": "có 69 bánh kẹo chia đều cho 4 người mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "tủ có 68 quyển sách. mua thêm 47 quyển nữa. hỏi tủ có tất cả bao nhiêu quyển sách.", "breaks": [4, 9]}
+{"text": "an có 84 quyển vở, , cho an 19 quyển , hỏi an còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "tu có 3 viên bi , cho tu 3, viên , hỏi tu còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "trên bàn có 51 quả táo lấy đi 2 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "có 83 chiếc bánh. chia đều cho 2 người. mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "lớp học có 37 học sinh. có 8 bạn nam., hỏi có bao nhiêu bạn nữ.", "breaks": [5, 9]}
+{"text": "thư viện có 38 ghế, mượn đi 8 ghế hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "an có 84 quyển vở , cho an 19 quyển , hỏi an còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "trong rổ có 80 cái kẹo lấy đi 23 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "huy có 44 quả cam minh nhiều hơn huy 39 quả hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "nam có 23 quả cam , bình nhiều hơn nam 22, quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 72 quả táo, , chia đều cho 5 bạn , hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "có 25 chiếc bánh , chia đều cho 3 người , mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "có 11 kg gạo. chia đều cho 11 gia đình., hỏi mỗi gia đình được mấy kg gạo.", "breaks": [3, 9]}
+{"text": "nam có 23 quả cam. bình nhiều hơn nam 22 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "huy có 51 quả cam. thu nhiều hơn huy 23 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "một quả cam có 7 cái 5 quả cam có mấy cái", "breaks": [5]}
+{"text": "lan có 66 quả cam thu nhiều hơn lan 25 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lớp học có 37 học sinh., có 8 bạn nam. hỏi có bao nhiêu bạn nữ.", "breaks": [5, 9]}
+{"text": "trong rổ có 30 quả táo , lấy đi 12, quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "một xe bus có 53 chỗ ngồi , 6 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "an nặng 45kg. bình nặng hơn an 1kg. hỏi bình nặng bao nhiêu kg.", "breaks": [2, 7]}
+{"text": "một bàn học có 100 chân., 39 bàn học có mấy chân.", "breaks": [5]}
+{"text": "một quả cam có 51 cái , 9 quả cam có mấy cái", "breaks": [5]}
+{"text": "trong rổ có 30 quả táo lấy đi 12 quả, hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "trên bàn có 99 quyển vở lấy đi 17 quyển hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "có 21 viên kẹo., chia đều cho 4 người. mỗi người được bao nhiêu viên.", "breaks": [3, 8]}
+{"text": "một xe bus có 95 chỗ ngồi 38 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "có 47 quyển vở chia đều cho 2 người mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "trường có 77 phòng học xây thêm 48 phòng hỏi trường có tất cả bao nhiêu phòng", "breaks": [4, 8]}
+{"text": "mai có 97 quả cam , thu nhiều hơn mai 30, quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lớp học có 76 học sinh, , có 28 bạn nam , hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "an nặng 98kg. bình nặng hơn an 20kg. hỏi bình nặng bao nhiêu kg.", "breaks": [2, 7]}
+{"text": "nam có 9 chiếc bánh, cho nam 7 chiếc hỏi nam còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "linh có 8 viên bi, cho linh 6 viên hỏi linh còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "có 55 viên kẹo chia đều cho 4 người, mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "nam có 9 chiếc bánh. cho nam 7 chiếc., hỏi nam còn lại bao nhiêu chiếc.", "breaks": [4, 8]}
+{"text": "một quả cam có 7 cái , 5 quả cam có mấy cái", "breaks": [5]}
+{"text": "một xe bus có 72 chỗ ngồi, , 49 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "một cây bút có 87 cái. 4 cây bút có mấy cái.", "breaks": [5]}
+{"text": "trong giỏ có 23 cái kẹo lấy đi 19 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "lan có 69 quả táo. nam hơn lan 11 quả. hỏi nam có mấy quả.", "breaks": [4, 9]}
+{"text": "trên bàn có 77 cái kẹo. lấy đi 18 cái. hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "thư viện có 38 ghế. mượn đi 17 ghế. hỏi thư viện còn lại bao nhiêu ghế.", "breaks": [4, 8]}
+{"text": "trong rổ có 33 quả cam , lấy đi 16 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "trong rổ có 33 quả cam. lấy đi 16 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "một quả cam có 80 cái , 31 quả cam có mấy cái", "breaks": [5]}
+{"text": "lớp học có 37 học sinh , có 8 bạn nam , hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "lớp học có 76 học sinh , có 28 bạn nam , hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "trên bàn có 51 quả táo , lấy đi 2, quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "tủ sách có 23 quyển. cho 22 người mượn mỗi người 2 quyển. hỏi còn lại bao nhiêu quyển.", "breaks": [4, 12]}
+{"text": "có 32 chiếc bánh , chia đều cho 3 người , mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "một cây bút có 91 cái. 48 cây bút có mấy cái.", "breaks": [5]}
+{"text": "có 4 quyển vở, chia đều cho 3 người mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "có 52 kg gạo chia đều cho 40 gia đình, hỏi mỗi gia đình được mấy kg gạo", "breaks": [3, 9]}
+{"text": "trong giỏ có 94 quả táo, lấy đi 13 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "an có 83 quả cam. bình nhiều hơn an 45 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "lớp học có 35 học sinh có 17 bạn nam hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "trong tủ có 29 chiếc bánh, lấy đi 1 chiếc hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "mai có 91 quả cam linh nhiều hơn mai 37 quả, hỏi linh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một bông hoa có 67 cánh 24 bông hoa có mấy cánh", "breaks": [5]}
+{"text": "lan có 12 quả táo mẹ cho thêm 1 quả nữa hỏi lan có mấy quả táo", "breaks": [4, 10]}
+{"text": "một bàn học có 70 chân , 48 bàn học có mấy chân", "breaks": [5]}
+{"text": "có 21 cây bút. chia đều cho 7 nhóm. hỏi mỗi nhóm được mấy cây bút.", "breaks": [3, 8]}
+{"text": "có 23 viên kẹo., chia đều cho 4 người. mỗi người được bao nhiêu viên.", "breaks": [3, 8]}
+{"text": "tu có 81 viên bi. cho tu 33 viên. hỏi tu còn lại bao nhiêu viên.", "breaks": [4, 8]}
+{"text": "thư viện có 38 ghế mượn đi 8 ghế hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "trên bàn có 23 cái kẹo. lấy đi 12 cái. hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "nam có 11 quả cam. thu nhiều hơn nam 9 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trong tủ có 65 quả cam , lấy đi 41 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "có 1 quyển vở. chia đều cho 3 người. mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "tu có 3 viên bi cho tu 3 viên hỏi tu còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "có 70 quả xoài. chia đều cho 2 người. mỗi người được bao nhiêu quả.", "breaks": [3, 8]}
+{"text": "mai có 97 quả cam. thu nhiều hơn mai 30 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "an có 59 quả cam hoa nhiều hơn an 39 quả hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "huy có 62 quả cam, hoa nhiều hơn huy 4 quả hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lan có 12 quả táo, mẹ cho thêm 1 quả nữa hỏi lan có mấy quả táo", "breaks": [4, 10]}
+{"text": "có 53 cái kẹo. chia đều cho 8 học sinh. hỏi mỗi học sinh được mấy cái kẹo.", "breaks": [3, 9]}
+{"text": "lan có 88 quả cam., minh nhiều hơn lan 13 quả. hỏi minh có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "lan có 69 quả táo , nam hơn lan 11, quả , hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "có 69 chiếc bánh, , chia đều cho 3 người , mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "trong giỏ có 68 quả táo lấy đi 16 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "lớp học có 76 học sinh có 28 bạn nam, hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "trong hộp có 92 chiếc bánh, lấy đi 20 chiếc hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "nam có 26 quả cam. thu nhiều hơn nam 2 quả., hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trong rổ có 5 quả táo , lấy đi 4, quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "binh có 8 viên bi , cho binh 6 viên , hỏi binh còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "có 69 bánh kẹo chia đều cho 4 người mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "nam có 11 quả cam thu nhiều hơn nam 9 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "binh có 8 viên bi. cho binh 6 viên., hỏi binh còn lại bao nhiêu viên.", "breaks": [4, 8]}
+{"text": "an có 84 quyển vở cho an 19 quyển, hỏi an còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "an nặng 98kg bình nặng hơn an 20kg hỏi bình nặng bao nhiêu kg", "breaks": [2, 7]}
+{"text": "có 71 quả táo., chia đều cho 17 bạn. hỏi mỗi bạn được mấy quả táo.", "breaks": [3, 8]}
+{"text": "nam có 9 quả cam , hoa nhiều hơn nam 2 quả , hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lan có 88 quả táo nam hơn lan 39 quả hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "trên bàn có 21 chiếc bánh. lấy đi 16 chiếc. hỏi còn lại bao nhiêu chiếc.", "breaks": [5, 9]}
+{"text": "lan có 33 quả cam , hoa nhiều hơn lan 32 quả , hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 59 bánh kẹo chia đều cho 5 người mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "có 36 quyển vở chia đều cho 5 người, mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "có 55 viên kẹo chia đều cho 4 người mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "vườn có 5 cây xoài , chết 1, cây , hỏi vườn còn lại bao nhiêu cây", "breaks": [4, 7]}
+{"text": "một bàn học có 41 chân, 12 bàn học có mấy chân", "breaks": [5]}
+{"text": "một con gà có 27 chân , 13 con gà có mấy chân", "breaks": [5]}
+{"text": "trường có 77 phòng học. xây thêm 48 phòng. hỏi trường có tất cả bao nhiêu phòng.", "breaks": [4, 8]}
+{"text": "nam có 11 quả cam thu nhiều hơn nam 9 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 69 chiếc bánh chia đều cho 3 người mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "lớp học có 56 học sinh có 11 bạn nam hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "nam có 7 chiếc bánh , cho nam 6 chiếc , hỏi nam còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "linh có 72 quyển vở cho linh 44 quyển hỏi linh còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "nam có 86 quả cam. thu nhiều hơn nam 45 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trên bàn có 8 cái kẹo , lấy đi 5, cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "có 4 quyển vở chia đều cho 3 người mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "thu có 90 cái kẹo cho thu 33 cái hỏi thu còn lại bao nhiêu cái", "breaks": [4, 8]}
+{"text": "lan có 88 quả táo , nam hơn lan 39, quả , hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "hoa có 87 quả cam, , cho hoa 13 quả , hỏi hoa còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "trong hộp có 12 quả cam. lấy đi 1 quả., hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "lan có 33 quả cam , hoa nhiều hơn lan 32 quả , hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "nam có 11 quả cam. thu nhiều hơn nam 9 quả., hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "có 27 quyển vở., chia đều cho 3 người. mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "có 98 bánh kẹo , chia đều cho 3 người , mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "có 25 chiếc bánh. chia đều cho 3 người., mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "lan có 87 quả cam. minh nhiều hơn lan 42 quả. hỏi minh có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trong rổ có 99 chiếc bánh lấy đi 44 chiếc, hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "linh có 72 quyển vở , cho linh 44 quyển , hỏi linh còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "an có 45 quả cam , bình nhiều hơn an 2 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lan có 87 quả cam minh nhiều hơn lan 42 quả hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một quả cam có 51 cái 9 quả cam có mấy cái", "breaks": [5]}
+{"text": "lớp học có 37 học sinh, có 8 bạn nam hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "có 21 cây bút. chia đều cho 7 nhóm. hỏi mỗi nhóm được mấy cây bút.", "breaks": [3, 8]}
+{"text": "tu có 3 viên bi cho tu 3 viên, hỏi tu còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "lan có 69 quả táo , nam hơn lan 11 quả , hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "một bàn học có 100 chân , 39 bàn học có mấy chân", "breaks": [5]}
+{"text": "nam có 11 quả cam , thu nhiều hơn nam 9, quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trên bàn có 51 quả táo lấy đi 2 quả, hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "trong tủ có 58 quyển vở , lấy đi 50 quyển , hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "một cây bút có 87 cái, , 4 cây bút có mấy cái", "breaks": [5]}
+{"text": "trường có 77 phòng học, , xây thêm 48 phòng , hỏi trường có tất cả bao nhiêu phòng", "breaks": [4, 8]}
+{"text": "nam có 86 quả cam thu nhiều hơn nam 45 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lan có 14 quả táo., nam hơn lan 10 quả. hỏi nam có mấy quả.", "breaks": [4, 9]}
+{"text": "một cây bút có 91 cái, , 48 cây bút có mấy cái", "breaks": [5]}
+{"text": "huy có 91 cây bút , cho huy 20 cây , hỏi huy còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "trường có 77 phòng học., xây thêm 48 phòng. hỏi trường có tất cả bao nhiêu phòng.", "breaks": [4, 8]}
+{"text": "lan có 88 quả táo nam hơn lan 39 quả, hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "nam có 7 chiếc bánh , cho nam 6 chiếc , hỏi nam còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "an có 84 quyển vở , cho an 19 quyển , hỏi an còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "nam có 26 quả cam thu nhiều hơn nam 2 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong rổ có 33 quả cam lấy đi 16 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "có 25 chiếc bánh chia đều cho 3 người mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "nam cao 73cm nam cao hơn minh 21cm hỏi minh cao bao nhiêu cm", "breaks": [2, 7]}
+{"text": "trong giỏ có 37 cái kẹo., lấy đi 19 cái. hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "trong tủ có 65 quả cam lấy đi 41 quả, hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "nam có 63 quả cam, cho nam 9 quả hỏi nam còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "hoa có 48 quả táo. cho hoa 47 quả. hỏi hoa còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "thu có 90 cái kẹo. cho thu 33 cái., hỏi thu còn lại bao nhiêu cái.", "breaks": [4, 8]}
+{"text": "có 52 kg gạo , chia đều cho 40 gia đình , hỏi mỗi gia đình được mấy kg gạo", "breaks": [3, 9]}
+{"text": "một cái bàn có 11 cái 8 cái bàn có mấy cái", "breaks": [5]}
+{"text": "có 62 quả xoài. chia đều cho 3 người. mỗi người được bao nhiêu quả.", "breaks": [3, 8]}
+{"text": "lớp a có 43 học sinh , lớp b nhiều hơn lớp a 37 học, sinh , hỏi lớp b có bao nhiêu học sinh", "breaks": [5, 14]}
+{"text": "trong giỏ có 23 cái kẹo , lấy đi 19 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "có 53 cái kẹo. chia đều cho 8 học sinh., hỏi mỗi học sinh được mấy cái kẹo.", "breaks": [3, 9]}
+{"text": "lan có 88 quả táo., nam hơn lan 39 quả. hỏi nam có mấy quả.", "breaks": [4, 9]}
+{"text": "trên bàn có 51 quả táo , lấy đi 2 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "thu có 23 cái kẹo. cho thu 17 cái. hỏi thu còn lại bao nhiêu cái.", "breaks": [4, 8]}
+{"text": "có 68 quả táo. chia đều cho 32 bạn. hỏi mỗi bạn được mấy quả táo.", "breaks": [3, 8]}
+{"text": "lan có 33 quả cam. hoa nhiều hơn lan 32 quả., hỏi hoa có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trong rổ có 30 quả táo. lấy đi 12 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "một hộp có 65 viên bi., 18 hộp có mấy viên bi.", "breaks": [5]}
+{"text": "thu có 23 cái kẹo , cho thu 17 cái , hỏi thu còn lại bao nhiêu cái", "breaks": [4, 8]}
+{"text": "một hộp có 52 viên bi. 27 hộp có mấy viên bi.", "breaks": [5]}
+{"text": "an có 27 quả cam bình nhiều hơn an 7 quả hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một tòa nhà có 58 tầng., 17 tòa nhà có mấy tầng.", "breaks": [5]}
+{"text": "trong hộp có 92 chiếc bánh. lấy đi 20 chiếc. hỏi còn lại bao nhiêu chiếc.", "breaks": [5, 9]}
+{"text": "lan có 88 quả táo , nam hơn lan 39 quả , hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "nam cao 73cm. nam cao hơn minh 21cm., hỏi minh cao bao nhiêu cm.", "breaks": [2, 7]}
+{"text": "nam cao 73cm, , nam cao hơn minh 21cm , hỏi minh cao bao nhiêu cm", "breaks": [2, 7]}
+{"text": "huy có 76 quả cam. bình nhiều hơn huy 41 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "có 44 quả xoài , chia đều cho 5 người , mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "trong hộp có 100 quyển vở , lấy đi 45 quyển , hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "trong rổ có 12 quả cam , lấy đi 2, quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "binh có 8 viên bi. cho binh 6 viên. hỏi binh còn lại bao nhiêu viên.", "breaks": [4, 8]}
+{"text": "tu có 81 viên bi cho tu 33 viên hỏi tu còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "một xe bus có 95 chỗ ngồi 38 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "nam có 7 chiếc bánh , cho nam 6, chiếc , hỏi nam còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "một bàn học có 41 chân 12 bàn học có mấy chân", "breaks": [5]}
+{"text": "có 70 quả xoài, , chia đều cho 2 người , mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "trong giỏ có 94 quả táo , lấy đi 13, quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "một lớp học có 29 bàn., 25 lớp học có mấy bàn.", "breaks": [5]}
+{"text": "lan có 12 quả táo., mẹ cho thêm 1 quả nữa. hỏi lan có mấy quả táo.", "breaks": [4, 10]}
+{"text": "một xe bus có 95 chỗ ngồi, 38 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "trong hộp có 100 quyển vở. lấy đi 45 quyển. hỏi còn lại bao nhiêu quyển.", "breaks": [5, 9]}
+{"text": "nam có 63 quả cam , cho nam 9 quả , hỏi nam còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "linh có 8 viên bi , cho linh 6, viên , hỏi linh còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "bình có 54 quyển vở , hoa ít hơn bình 35 quyển , hỏi hoa có bao nhiêu quyển vở", "breaks": [4, 10]}
+{"text": "một quả cam có 76 cái, , 21 quả cam có mấy cái", "breaks": [5]}
+{"text": "có 71 quả táo. chia đều cho 17 bạn. hỏi mỗi bạn được mấy quả táo.", "breaks": [3, 8]}
+{"text": "tu có 3 viên bi. cho tu 3 viên. hỏi tu còn lại bao nhiêu viên.", "breaks": [4, 8]}
+{"text": "lan có 45 quả cam. cho lan 37 quả. hỏi lan còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "trên bàn có 99 quyển vở lấy đi 17 quyển hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "có 23 viên kẹo , chia đều cho 4 người , mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "có 62 quả xoài , chia đều cho 3 người , mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "một xe đạp có 97 bánh, 7 xe đạp có mấy bánh", "breaks": [5]}
+{"text": "bình có 54 quyển vở. hoa ít hơn bình 35 quyển., hỏi hoa có bao nhiêu quyển vở.", "breaks": [4, 10]}
+{"text": "lan có 14 quả táo. nam hơn lan 10 quả. hỏi nam có mấy quả.", "breaks": [4, 9]}
+{"text": "huy có 62 quả cam hoa nhiều hơn huy 4 quả hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "hoa có 48 quả táo. cho hoa 47 quả., hỏi hoa còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "an có 59 quả cam hoa nhiều hơn an 39 quả, hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong giỏ có 68 quả táo lấy đi 16 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "có 26 bánh kẹo. chia đều cho 4 người., mỗi người được bao nhiêu bánh.", "breaks": [3, 8]}
+{"text": "mai có 91 quả cam. linh nhiều hơn mai 37 quả., hỏi linh có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "một bông hoa có 37 cánh. 17 bông hoa có mấy cánh.", "breaks": [5]}
+{"text": "có 72 quả táo, chia đều cho 5 bạn hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "thu có 90 cái kẹo. cho thu 33 cái. hỏi thu còn lại bao nhiêu cái.", "breaks": [4, 8]}
+{"text": "nam có 9 quả cam. hoa nhiều hơn nam 2 quả. hỏi hoa có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trong tủ có 29 chiếc bánh., lấy đi 1 chiếc. hỏi còn lại bao nhiêu chiếc.", "breaks": [5, 9]}
+{"text": "một bông hoa có 37 cánh 17 bông hoa có mấy cánh", "breaks": [5]}
+{"text": "trong hộp có 92 chiếc bánh , lấy đi 20 chiếc , hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "có 24 viên kẹo chia đều cho 2 người, mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "trong rổ có 30 quả táo lấy đi 12 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "một lớp học có 94 bàn , 29 lớp học có mấy bàn", "breaks": [5]}
+{"text": "có 1 chiếc bánh. chia đều cho 5 người., mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "có 70 quả xoài. chia đều cho 2 người., mỗi người được bao nhiêu quả.", "breaks": [3, 8]}
+{"text": "huy có 44 quả cam , minh nhiều hơn huy 39 quả , hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một con gà có 27 cái , 27 con gà có mấy cái", "breaks": [5]}
+{"text": "một bàn học có 70 chân 48 bàn học có mấy chân", "breaks": [5]}
+{"text": "trong rổ có 77 chiếc bánh, lấy đi 6 chiếc hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "lớp học có 56 học sinh có 11 bạn nam hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "tu có 97 quả cam , cho tu 40 quả , hỏi tu còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "có 25 chiếc bánh , chia đều cho 3, người , mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "lan có 49 quả cam , thu nhiều hơn lan 37 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một con gà có 34 chân, , 24 con gà có mấy chân", "breaks": [5]}
+{"text": "hoa có 24 viên bi , cho hoa 18 viên , hỏi hoa còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "một cái bàn có 11 cái. 8 cái bàn có mấy cái.", "breaks": [5]}
+{"text": "trong hộp có 12 quả cam, , lấy đi 1 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "mai có 91 quả cam , linh nhiều hơn mai 37 quả , hỏi linh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong hộp có 92 cái kẹo. lấy đi 21 cái., hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "có 26 bánh kẹo, , chia đều cho 4 người , mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "tủ có 68 quyển sách mua thêm 47 quyển nữa hỏi tủ có tất cả bao nhiêu quyển sách", "breaks": [4, 9]}
+{"text": "lan có 49 quả cam , thu nhiều hơn lan 37 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "thu có 23 cái kẹo , cho thu 17 cái , hỏi thu còn lại bao nhiêu cái", "breaks": [4, 8]}
+{"text": "trong hộp có 12 quả cam , lấy đi 1 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "có 1 chiếc bánh., chia đều cho 5 người. mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "trong rổ có 99 chiếc bánh lấy đi 44 chiếc hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "an có 59 quả cam, hoa nhiều hơn an 39 quả hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong hộp có 92 chiếc bánh lấy đi 20 chiếc, hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "trường có 77 phòng học xây thêm 48 phòng, hỏi trường có tất cả bao nhiêu phòng", "breaks": [4, 8]}
+{"text": "một quả cam có 80 cái. 31 quả cam có mấy cái.", "breaks": [5]}
+{"text": "huy có 62 quả cam , hoa nhiều hơn huy 4 quả , hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lớp học có 76 học sinh. có 28 bạn nam. hỏi có bao nhiêu bạn nữ.", "breaks": [5, 9]}
+{"text": "một cây bút có 91 cái , 48 cây bút có mấy cái", "breaks": [5]}
+{"text": "an có 45 quả cam, bình nhiều hơn an 2 quả hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "an có 84 quyển vở, cho an 19 quyển hỏi an còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "một tòa nhà có 58 tầng. 17 tòa nhà có mấy tầng.", "breaks": [5]}
+{"text": "trong giỏ có 37 cái kẹo lấy đi 19 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "có 4 quyển vở chia đều cho 3 người mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "an có 54 chiếc bánh , cho an 20, chiếc , hỏi an còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "bình có 54 quyển vở , hoa ít hơn bình 35 quyển , hỏi hoa có bao nhiêu quyển vở", "breaks": [4, 10]}
+{"text": "có 16 quyển vở, chia đều cho 4 lớp hỏi mỗi lớp được mấy quyển vở", "breaks": [3, 8]}
+{"text": "có 53 cái kẹo, , chia đều cho 8 học sinh , hỏi mỗi học sinh được mấy cái kẹo", "breaks": [3, 9]}
+{"text": "nam có 9 chiếc bánh. cho nam 7 chiếc. hỏi nam còn lại bao nhiêu chiếc.", "breaks": [4, 8]}
+{"text": "một xe đạp có 97 bánh , 7 xe đạp có mấy bánh", "breaks": [5]}
+{"text": "trên bàn có 23 cái kẹo , lấy đi 12 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "mai có 91 quả cam linh nhiều hơn mai 37 quả hỏi linh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "thư viện có 38 ghế , mượn đi 8 ghế , hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "một quả cam có 80 cái 31 quả cam có mấy cái", "breaks": [5]}
+{"text": "lan có 45 quả cam cho lan 37 quả, hỏi lan còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "có 55 viên kẹo, chia đều cho 4 người mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "nam có 9 quả cam hoa nhiều hơn nam 2 quả hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một quả cam có 51 cái., 9 quả cam có mấy cái.", "breaks": [5]}
+{"text": "trên bàn có 8 cái kẹo, , lấy đi 5 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "trong giỏ có 23 cái kẹo. lấy đi 19 cái., hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "thu có 23 cái kẹo, cho thu 17 cái hỏi thu còn lại bao nhiêu cái", "breaks": [4, 8]}
+{"text": "trên bàn có 77 cái kẹo. lấy đi 18 cái., hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "tủ có 68 quyển sách , mua thêm 47 quyển, nữa , hỏi tủ có tất cả bao nhiêu quyển sách", "breaks": [4, 9]}
+{"text": "trên bàn có 21 chiếc bánh , lấy đi 16 chiếc , hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "hoa có 48 quả táo , cho hoa 47 quả , hỏi hoa còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "có 71 quả táo , chia đều cho 17 bạn , hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "có 26 bánh kẹo chia đều cho 4 người mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "có 70 quả xoài, chia đều cho 2 người mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "binh có 8 viên bi, , cho binh 6 viên , hỏi binh còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "trong tủ có 58 quyển vở , lấy đi 50, quyển , hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "một con gà có 19 chân , 1 con gà có mấy chân", "breaks": [5]}
+{"text": "trong rổ có 5 quả táo., lấy đi 4 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "nam có 98 quả cam. cho nam 43 quả. hỏi nam còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "thư viện có 38 ghế mượn đi 17 ghế hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "trong rổ có 12 quả cam lấy đi 2 quả, hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "lan có 88 quả táo, , nam hơn lan 39 quả , hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "một lớp học có 94 bàn. 29 lớp học có mấy bàn.", "breaks": [5]}
+{"text": "an có 84 quyển vở. cho an 19 quyển. hỏi an còn lại bao nhiêu quyển.", "breaks": [4, 8]}
+{"text": "trong rổ có 80 cái kẹo , lấy đi 23, cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "một con gà có 34 chân 24 con gà có mấy chân", "breaks": [5]}
+{"text": "có 26 bánh kẹo , chia đều cho 4 người , mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "lớp học có 35 học sinh. có 17 bạn nam. hỏi có bao nhiêu bạn nữ.", "breaks": [5, 9]}
+{"text": "có 24 viên kẹo, chia đều cho 2 người mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "lan có 12 quả táo , mẹ cho thêm 1 quả nữa , hỏi lan có mấy quả táo", "breaks": [4, 10]}
+{"text": "lớp học có 76 học sinh có 28 bạn nam hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "một quả cam có 76 cái. 21 quả cam có mấy cái.", "breaks": [5]}
+{"text": "an nặng 98kg, , bình nặng hơn an 20kg , hỏi bình nặng bao nhiêu kg", "breaks": [2, 7]}
+{"text": "huy có 76 quả cam , bình nhiều hơn huy 41 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "nam có 86 quả cam , thu nhiều hơn nam 45 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "an nặng 45kg., bình nặng hơn an 1kg. hỏi bình nặng bao nhiêu kg.", "breaks": [2, 7]}
+{"text": "có 8 cái kẹo., chia đều cho 2 học sinh. hỏi mỗi học sinh được mấy cái kẹo.", "breaks": [3, 9]}
+{"text": "an có 83 quả cam. bình nhiều hơn an 45 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "an có 45 quả cam. bình nhiều hơn an 2 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trên bàn có 23 cái kẹo lấy đi 12 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "có 47 quyển vở. chia đều cho 2 người. mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "an nặng 45kg, bình nặng hơn an 1kg hỏi bình nặng bao nhiêu kg", "breaks": [2, 7]}
+{"text": "vườn có 5 cây xoài. chết 1 cây. hỏi vườn còn lại bao nhiêu cây.", "breaks": [4, 7]}
+{"text": "lan có 40 cây bút., cho lan 7 cây. hỏi lan còn lại bao nhiêu cây.", "breaks": [4, 8]}
+{"text": "một cái bàn có 11 cái, 8 cái bàn có mấy cái", "breaks": [5]}
+{"text": "an có 24 quyển vở cho an 15 quyển, hỏi an còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "vườn có 5 cây xoài, chết 1 cây hỏi vườn còn lại bao nhiêu cây", "breaks": [4, 7]}
+{"text": "an có 45 quả cam, , bình nhiều hơn an 2 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "mai có 97 quả cam thu nhiều hơn mai 30 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 11 kg gạo , chia đều cho 11 gia đình , hỏi mỗi gia đình được mấy kg gạo", "breaks": [3, 9]}
+{"text": "có 36 quyển vở. chia đều cho 5 người. mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "an có 54 chiếc bánh cho an 20 chiếc hỏi an còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "lớp a có 43 học sinh., lớp b nhiều hơn lớp a 37 học sinh. hỏi lớp b có bao nhiêu học sinh.", "breaks": [5, 14]}
+{"text": "lớp học có 76 học sinh có 28 bạn nam hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "một bông hoa có 14 cánh, 3 bông hoa có mấy cánh", "breaks": [5]}
+{"text": "có 21 viên kẹo, , chia đều cho 4 người , mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "an có 84 quyển vở. cho an 19 quyển. hỏi an còn lại bao nhiêu quyển.", "breaks": [4, 8]}
+{"text": "trên bàn có 23 cái kẹo. lấy đi 12 cái., hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "lan có 45 quả cam., cho lan 37 quả. hỏi lan còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "có 32 chiếc bánh , chia đều cho 3, người , mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "thu có 90 cái kẹo cho thu 33 cái hỏi thu còn lại bao nhiêu cái", "breaks": [4, 8]}
+{"text": "một lớp học có 29 bàn 25 lớp học có mấy bàn", "breaks": [5]}
+{"text": "lan có 66 quả cam , thu nhiều hơn lan 25 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "tủ có 68 quyển sách , mua thêm 47 quyển nữa , hỏi tủ có tất cả bao nhiêu quyển sách", "breaks": [4, 9]}
+{"text": "hoa có 48 quả táo cho hoa 47 quả hỏi hoa còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "an có 83 quả cam., bình nhiều hơn an 45 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "nam có 63 quả cam cho nam 9 quả, hỏi nam còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "nam có 79 quả cam minh nhiều hơn nam 21 quả hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 21 viên kẹo. chia đều cho 4 người. mỗi người được bao nhiêu viên.", "breaks": [3, 8]}
+{"text": "trên bàn có 51 quả táo , lấy đi 2 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "một hộp có 52 viên bi, 27 hộp có mấy viên bi", "breaks": [5]}
+{"text": "có 11 kg gạo. chia đều cho 11 gia đình. hỏi mỗi gia đình được mấy kg gạo.", "breaks": [3, 9]}
+{"text": "có 25 chiếc bánh. chia đều cho 3 người. mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "nam có 86 quả cam , thu nhiều hơn nam 45 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong rổ có 99 chiếc bánh. lấy đi 44 chiếc., hỏi còn lại bao nhiêu chiếc.", "breaks": [5, 9]}
+{"text": "có 24 viên kẹo , chia đều cho 2 người , mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "an có 15 quả cam bình nhiều hơn an 3 quả, hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lan có 45 quả cam , cho lan 37 quả , hỏi lan còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "có 62 quả xoài chia đều cho 3 người, mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "nam có 26 quả cam , thu nhiều hơn nam 2 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong rổ có 30 quả táo , lấy đi 12 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "thu có 67 cây bút , cho thu 43, cây , hỏi thu còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "lan có 12 quả táo. mẹ cho thêm 1 quả nữa. hỏi lan có mấy quả táo.", "breaks": [4, 10]}
+{"text": "an có 15 quả cam , bình nhiều hơn an 3 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong rổ có 80 cái kẹo. lấy đi 23 cái. hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "huy có 44 quả cam minh nhiều hơn huy 39 quả hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong rổ có 30 quả táo , lấy đi 12 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "một quả cam có 7 cái., 5 quả cam có mấy cái.", "breaks": [5]}
+{"text": "trong giỏ có 94 quả táo. lấy đi 13 quả., hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "có 11 kg gạo chia đều cho 11 gia đình hỏi mỗi gia đình được mấy kg gạo", "breaks": [3, 9]}
+{"text": "một bông hoa có 37 cánh, , 17 bông hoa có mấy cánh", "breaks": [5]}
+{"text": "lan có 88 quả cam , minh nhiều hơn lan 13 quả , hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "nam có 63 quả cam cho nam 9 quả hỏi nam còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "nam có 98 quả cam cho nam 43 quả hỏi nam còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "thu có 23 cái kẹo., cho thu 17 cái. hỏi thu còn lại bao nhiêu cái.", "breaks": [4, 8]}
+{"text": "huy có 49 quả cam., cho huy 39 quả. hỏi huy còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "trong rổ có 80 cái kẹo lấy đi 23 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "nam có 7 chiếc bánh. cho nam 6 chiếc. hỏi nam còn lại bao nhiêu chiếc.", "breaks": [4, 8]}
+{"text": "một cây bút có 87 cái., 4 cây bút có mấy cái.", "breaks": [5]}
+{"text": "lan có 69 quả táo nam hơn lan 11 quả hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "lan có 40 cây bút cho lan 7 cây, hỏi lan còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "an có 59 quả cam. hoa nhiều hơn an 39 quả. hỏi hoa có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "hoa có 48 quả táo cho hoa 47 quả, hỏi hoa còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "có 32 chiếc bánh chia đều cho 3 người mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "trong hộp có 92 cái kẹo lấy đi 21 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "trong giỏ có 37 cái kẹo lấy đi 19 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "an có 24 quyển vở cho an 15 quyển hỏi an còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "lan có 33 quả cam., hoa nhiều hơn lan 32 quả. hỏi hoa có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "lan có 49 quả cam. thu nhiều hơn lan 37 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trong hộp có 92 chiếc bánh. lấy đi 20 chiếc. hỏi còn lại bao nhiêu chiếc.", "breaks": [5, 9]}
+{"text": "nam có 7 chiếc bánh. cho nam 6 chiếc. hỏi nam còn lại bao nhiêu chiếc.", "breaks": [4, 8]}
+{"text": "một hộp có 52 viên bi. 27 hộp có mấy viên bi.", "breaks": [5]}
+{"text": "trong rổ có 77 chiếc bánh lấy đi 6 chiếc hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "trên bàn có 8 cái kẹo, lấy đi 5 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "nam cao 73cm. nam cao hơn minh 21cm. hỏi minh cao bao nhiêu cm.", "breaks": [2, 7]}
+{"text": "có 26 bánh kẹo., chia đều cho 4 người. mỗi người được bao nhiêu bánh.", "breaks": [3, 8]}
+{"text": "trong hộp có 92 chiếc bánh , lấy đi 20 chiếc , hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "một cây bút có 87 cái. 4 cây bút có mấy cái.", "breaks": [5]}
+{"text": "một cây bút có 87 cái, 4 cây bút có mấy cái", "breaks": [5]}
+{"text": "có 55 viên kẹo chia đều cho 4 người mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "một con gà có 9 cái. 3 con gà có mấy cái.", "breaks": [5]}
+{"text": "tủ có 68 quyển sách, , mua thêm 47 quyển nữa , hỏi tủ có tất cả bao nhiêu quyển sách", "breaks": [4, 9]}
+{"text": "an nặng 98kg bình nặng hơn an 20kg, hỏi bình nặng bao nhiêu kg", "breaks": [2, 7]}
+{"text": "có 69 bánh kẹo , chia đều cho 4 người , mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "lan có 40 cây bút , cho lan 7 cây , hỏi lan còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "một cây bút có 91 cái., 48 cây bút có mấy cái.", "breaks": [5]}
+{"text": "nam có 9 chiếc bánh. cho nam 7 chiếc. hỏi nam còn lại bao nhiêu chiếc.", "breaks": [4, 8]}
+{"text": "một bàn học có 100 chân 39 bàn học có mấy chân", "breaks": [5]}
+{"text": "trong hộp có 100 quyển vở , lấy đi 45 quyển , hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "có 4 quyển vở, , chia đều cho 3 người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "thư viện có 33 ghế mượn đi 11 ghế hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "trên bàn có 77 cái kẹo, , lấy đi 18 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "linh có 72 quyển vở, cho linh 44 quyển hỏi linh còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "huy có 62 quả cam , hoa nhiều hơn huy 4, quả , hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 36 quyển vở. chia đều cho 5 người., mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "lan có 49 quả cam, thu nhiều hơn lan 37 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "huy có 51 quả cam thu nhiều hơn huy 23 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong rổ có 30 quả táo, lấy đi 12 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "thư viện có 38 ghế, , mượn đi 17 ghế , hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "lớp học có 37 học sinh có 8 bạn nam hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "nam có 11 quả cam. thu nhiều hơn nam 9 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "có 69 chiếc bánh , chia đều cho 3, người , mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "an có 15 quả cam bình nhiều hơn an 3 quả hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lớp học có 76 học sinh , có 28 bạn nam , hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "một quả cam có 51 cái. 9 quả cam có mấy cái.", "breaks": [5]}
+{"text": "an có 45 quả cam , bình nhiều hơn an 2, quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong hộp có 2 quả táo, lấy đi 1 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "nam có 11 quả cam thu nhiều hơn nam 9 quả, hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 47 quyển vở , chia đều cho 2, người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "linh có 8 viên bi cho linh 6 viên, hỏi linh còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "có 4 quyển vở. chia đều cho 3 người. mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "một bông hoa có 67 cánh., 24 bông hoa có mấy cánh.", "breaks": [5]}
+{"text": "có 16 quyển vở. chia đều cho 4 lớp. hỏi mỗi lớp được mấy quyển vở.", "breaks": [3, 8]}
+{"text": "có 83 chiếc bánh. chia đều cho 2 người., mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "một quả cam có 80 cái 31 quả cam có mấy cái", "breaks": [5]}
+{"text": "lan có 14 quả táo, , nam hơn lan 10 quả , hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "huy có 91 cây bút. cho huy 20 cây. hỏi huy còn lại bao nhiêu cây.", "breaks": [4, 8]}
+{"text": "vườn có 5 cây xoài , chết 1 cây , hỏi vườn còn lại bao nhiêu cây", "breaks": [4, 7]}
+{"text": "một con gà có 27 chân. 13 con gà có mấy chân.", "breaks": [5]}
+{"text": "có 55 viên kẹo, , chia đều cho 4 người , mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "một con gà có 19 chân, 1 con gà có mấy chân", "breaks": [5]}
+{"text": "có 83 chiếc bánh, chia đều cho 2 người mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "lan có 45 quả cam cho lan 37 quả hỏi lan còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "nam có 23 quả cam bình nhiều hơn nam 22 quả hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 21 viên kẹo , chia đều cho 4 người , mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "một lớp học có 94 bàn, 29 lớp học có mấy bàn", "breaks": [5]}
+{"text": "nam có 79 quả cam., minh nhiều hơn nam 21 quả. hỏi minh có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "huy có 51 quả cam., thu nhiều hơn huy 23 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trong hộp có 12 quả cam , lấy đi 1 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "có 72 quả táo chia đều cho 5 bạn hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "có 72 quả táo , chia đều cho 5, bạn , hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "có 62 quả xoài chia đều cho 3 người mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "tu có 97 quả cam , cho tu 40, quả , hỏi tu còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "trong rổ có 77 chiếc bánh , lấy đi 6 chiếc , hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "trong hộp có 92 cái kẹo, , lấy đi 21 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "một quả cam có 80 cái. 31 quả cam có mấy cái.", "breaks": [5]}
+{"text": "trên bàn có 21 chiếc bánh , lấy đi 16, chiếc , hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "trên bàn có 77 cái kẹo. lấy đi 18 cái. hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "có 1 chiếc bánh , chia đều cho 5, người , mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "một bông hoa có 14 cánh. 3 bông hoa có mấy cánh.", "breaks": [5]}
+{"text": "mai có 97 quả cam., thu nhiều hơn mai 30 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "một con gà có 27 chân, 13 con gà có mấy chân", "breaks": [5]}
+{"text": "linh có 8 viên bi cho linh 6 viên hỏi linh còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "huy có 49 quả cam cho huy 39 quả hỏi huy còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "có 16 quyển vở chia đều cho 4 lớp hỏi mỗi lớp được mấy quyển vở", "breaks": [3, 8]}
+{"text": "tủ sách có 23 quyển, cho 22 người mượn mỗi người 2 quyển hỏi còn lại bao nhiêu quyển", "breaks": [4, 12]}
+{"text": "có 21 viên kẹo chia đều cho 4 người mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "trong rổ có 12 quả cam. lấy đi 2 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "hoa có 24 viên bi. cho hoa 18 viên., hỏi hoa còn lại bao nhiêu viên.", "breaks": [4, 8]}
+{"text": "trên bàn có 23 cái kẹo lấy đi 12 cái, hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "có 62 quả xoài , chia đều cho 3 người , mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "có 36 quyển vở , chia đều cho 5, người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "linh có 72 quyển vở cho linh 44 quyển, hỏi linh còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "trong giỏ có 23 cái kẹo , lấy đi 19 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "nam có 79 quả cam , minh nhiều hơn nam 21 quả , hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 21 viên kẹo chia đều cho 4 người mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "trong rổ có 77 chiếc bánh. lấy đi 6 chiếc., hỏi còn lại bao nhiêu chiếc.", "breaks": [5, 9]}
+{"text": "có 16 quyển vở , chia đều cho 4, lớp , hỏi mỗi lớp được mấy quyển vở", "breaks": [3, 8]}
+{"text": "có 68 quả táo , chia đều cho 32, bạn , hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "thu có 67 cây bút cho thu 43 cây, hỏi thu còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "trong rổ có 99 chiếc bánh lấy đi 44 chiếc hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "mai có 91 quả cam. linh nhiều hơn mai 37 quả. hỏi linh có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "thư viện có 38 ghế , mượn đi 8, ghế , hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "thu có 67 cây bút. cho thu 43 cây., hỏi thu còn lại bao nhiêu cây.", "breaks": [4, 8]}
+{"text": "bình có 54 quyển vở hoa ít hơn bình 35 quyển hỏi hoa có bao nhiêu quyển vở", "breaks": [4, 10]}
+{"text": "thư viện có 38 ghế., mượn đi 17 ghế. hỏi thư viện còn lại bao nhiêu ghế.", "breaks": [4, 8]}
+{"text": "lan có 12 quả táo, , mẹ cho thêm 1 quả nữa , hỏi lan có mấy quả táo", "breaks": [4, 10]}
+{"text": "trong giỏ có 94 quả táo , lấy đi 13 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "tu có 97 quả cam, , cho tu 40 quả , hỏi tu còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "có 23 viên kẹo chia đều cho 4 người, mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "thu có 90 cái kẹo. cho thu 33 cái. hỏi thu còn lại bao nhiêu cái.", "breaks": [4, 8]}
+{"text": "thư viện có 33 ghế mượn đi 11 ghế hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "có 44 quả xoài., chia đều cho 5 người. mỗi người được bao nhiêu quả.", "breaks": [3, 8]}
+{"text": "có 21 cây bút , chia đều cho 7, nhóm , hỏi mỗi nhóm được mấy cây bút", "breaks": [3, 8]}
+{"text": "có 32 chiếc bánh. chia đều cho 3 người. mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "có 83 chiếc bánh chia đều cho 2 người mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "có 83 chiếc bánh chia đều cho 2 người, mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "một quả cam có 7 cái 5 quả cam có mấy cái", "breaks": [5]}
+{"text": "có 47 quyển vở. chia đều cho 2 người., mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "bình có 54 quyển vở hoa ít hơn bình 35 quyển, hỏi hoa có bao nhiêu quyển vở", "breaks": [4, 10]}
+{"text": "nam có 98 quả cam , cho nam 43 quả , hỏi nam còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "linh có 72 quyển vở. cho linh 44 quyển. hỏi linh còn lại bao nhiêu quyển.", "breaks": [4, 8]}
+{"text": "nam có 23 quả cam , bình nhiều hơn nam 22 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một bàn học có 70 chân., 48 bàn học có mấy chân.", "breaks": [5]}
+{"text": "một xe bus có 53 chỗ ngồi, , 6 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "lớp a có 43 học sinh, , lớp b nhiều hơn lớp a 37 học sinh , hỏi lớp b có bao nhiêu học sinh", "breaks": [5, 14]}
+{"text": "trong rổ có 99 chiếc bánh , lấy đi 44, chiếc , hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "nam có 9 quả cam hoa nhiều hơn nam 2 quả, hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "huy có 62 quả cam. hoa nhiều hơn huy 4 quả. hỏi hoa có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trên bàn có 99 quyển vở. lấy đi 17 quyển. hỏi còn lại bao nhiêu quyển.", "breaks": [5, 9]}
+{"text": "một cây bút có 84 cái. 46 cây bút có mấy cái.", "breaks": [5]}
+{"text": "một con gà có 19 chân., 1 con gà có mấy chân.", "breaks": [5]}
+{"text": "nam cao 73cm , nam cao hơn minh 21cm , hỏi minh cao bao nhiêu cm", "breaks": [2, 7]}
+{"text": "có 23 viên kẹo , chia đều cho 4 người , mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "một con gà có 34 chân. 24 con gà có mấy chân.", "breaks": [5]}
+{"text": "thu có 23 cái kẹo , cho thu 17, cái , hỏi thu còn lại bao nhiêu cái", "breaks": [4, 8]}
+{"text": "một con gà có 19 chân. 1 con gà có mấy chân.", "breaks": [5]}
+{"text": "lớp học có 56 học sinh. có 11 bạn nam. hỏi có bao nhiêu bạn nữ.", "breaks": [5, 9]}
+{"text": "lan có 49 quả cam. thu nhiều hơn lan 37 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trong tủ có 58 quyển vở. lấy đi 50 quyển., hỏi còn lại bao nhiêu quyển.", "breaks": [5, 9]}
+{"text": "lớp học có 35 học sinh có 17 bạn nam, hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "lớp học có 56 học sinh có 11 bạn nam, hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "huy có 76 quả cam, , bình nhiều hơn huy 41 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "tủ có 68 quyển sách, mua thêm 47 quyển nữa hỏi tủ có tất cả bao nhiêu quyển sách", "breaks": [4, 9]}
+{"text": "có 69 chiếc bánh. chia đều cho 3 người. mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "trong hộp có 100 quyển vở , lấy đi 45, quyển , hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "thu có 23 cái kẹo. cho thu 17 cái., hỏi thu còn lại bao nhiêu cái.", "breaks": [4, 8]}
+{"text": "trong rổ có 30 quả táo., lấy đi 12 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "một xe bus có 53 chỗ ngồi , 6 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "thu có 23 cái kẹo cho thu 17 cái, hỏi thu còn lại bao nhiêu cái", "breaks": [4, 8]}
+{"text": "một xe đạp có 97 bánh. 7 xe đạp có mấy bánh.", "breaks": [5]}
+{"text": "có 1 chiếc bánh chia đều cho 5 người, mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "trong tủ có 29 chiếc bánh, , lấy đi 1 chiếc , hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "nam có 23 quả cam., bình nhiều hơn nam 22 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "một bàn học có 70 chân 48 bàn học có mấy chân", "breaks": [5]}
+{"text": "lan có 88 quả táo, nam hơn lan 39 quả hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "nam có 9 quả cam , hoa nhiều hơn nam 2, quả , hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một xe bus có 95 chỗ ngồi , 38 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "huy có 91 cây bút, , cho huy 20 cây , hỏi huy còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "lan có 12 quả táo. mẹ cho thêm 1 quả nữa., hỏi lan có mấy quả táo.", "breaks": [4, 10]}
+{"text": "có 4 quyển vở. chia đều cho 3 người. mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "trong giỏ có 68 quả táo. lấy đi 16 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "có 47 quyển vở., chia đều cho 2 người. mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "có 71 quả táo, chia đều cho 17 bạn hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "có 25 chiếc bánh chia đều cho 3 người, mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "tủ có 68 quyển sách., mua thêm 47 quyển nữa. hỏi tủ có tất cả bao nhiêu quyển sách.", "breaks": [4, 9]}
+{"text": "trong tủ có 29 chiếc bánh , lấy đi 1 chiếc , hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "có 1 chiếc bánh. chia đều cho 5 người. mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "một quả cam có 80 cái, 31 quả cam có mấy cái", "breaks": [5]}
+{"text": "trên bàn có 99 quyển vở. lấy đi 17 quyển., hỏi còn lại bao nhiêu quyển.", "breaks": [5, 9]}
+{"text": "có 55 viên kẹo , chia đều cho 4, người , mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "an nặng 45kg bình nặng hơn an 1kg hỏi bình nặng bao nhiêu kg", "breaks": [2, 7]}
+{"text": "an có 83 quả cam , bình nhiều hơn an 45 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 52 kg gạo chia đều cho 40 gia đình hỏi mỗi gia đình được mấy kg gạo", "breaks": [3, 9]}
+{"text": "lan có 14 quả táo. nam hơn lan 10 quả. hỏi nam có mấy quả.", "breaks": [4, 9]}
+{"text": "trong giỏ có 94 quả táo lấy đi 13 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "thu có 90 cái kẹo cho thu 33 cái, hỏi thu còn lại bao nhiêu cái", "breaks": [4, 8]}
+{"text": "có 83 chiếc bánh, , chia đều cho 2 người , mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "nam có 63 quả cam. cho nam 9 quả. hỏi nam còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "trên bàn có 21 chiếc bánh, , lấy đi 16 chiếc , hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "vườn có 5 cây xoài chết 1 cây hỏi vườn còn lại bao nhiêu cây", "breaks": [4, 7]}
+{"text": "thu có 23 cái kẹo cho thu 17 cái hỏi thu còn lại bao nhiêu cái", "breaks": [4, 8]}
+{"text": "huy có 62 quả cam hoa nhiều hơn huy 4 quả hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong tủ có 65 quả cam. lấy đi 41 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "có 83 chiếc bánh , chia đều cho 2, người , mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "một con gà có 27 cái, 27 con gà có mấy cái", "breaks": [5]}
+{"text": "an có 15 quả cam. bình nhiều hơn an 3 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "an có 15 quả cam. bình nhiều hơn an 3 quả., hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "nam có 23 quả cam bình nhiều hơn nam 22 quả, hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một cây bút có 84 cái 46 cây bút có mấy cái", "breaks": [5]}
+{"text": "có 21 viên kẹo. chia đều cho 4 người. mỗi người được bao nhiêu viên.", "breaks": [3, 8]}
+{"text": "an có 27 quả cam , bình nhiều hơn an 7 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "thu có 90 cái kẹo, , cho thu 33 cái , hỏi thu còn lại bao nhiêu cái", "breaks": [4, 8]}
+{"text": "nam có 26 quả cam. thu nhiều hơn nam 2 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trong tủ có 58 quyển vở. lấy đi 50 quyển. hỏi còn lại bao nhiêu quyển.", "breaks": [5, 9]}
+{"text": "an có 84 quyển vở , cho an 19, quyển , hỏi an còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "có 27 quyển vở , chia đều cho 3 người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "một hộp có 65 viên bi 18 hộp có mấy viên bi", "breaks": [5]}
+{"text": "trong rổ có 12 quả cam lấy đi 2 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "có 8 cái kẹo , chia đều cho 2 học, sinh , hỏi mỗi học sinh được mấy cái kẹo", "breaks": [3, 9]}
+{"text": "có 98 bánh kẹo , chia đều cho 3, người , mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "có 68 quả táo. chia đều cho 32 bạn. hỏi mỗi bạn được mấy quả táo.", "breaks": [3, 8]}
+{"text": "có 69 bánh kẹo chia đều cho 4 người, mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "tu có 81 viên bi , cho tu 33 viên , hỏi tu còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "nam có 7 chiếc bánh cho nam 6 chiếc hỏi nam còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "trong giỏ có 37 cái kẹo lấy đi 19 cái, hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "lớp học có 56 học sinh. có 11 bạn nam., hỏi có bao nhiêu bạn nữ.", "breaks": [5, 9]}
+{"text": "an có 84 quyển vở cho an 19 quyển hỏi an còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "nam có 11 quả cam , thu nhiều hơn nam 9 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 26 bánh kẹo. chia đều cho 4 người. mỗi người được bao nhiêu bánh.", "breaks": [3, 8]}
+{"text": "trong hộp có 2 quả táo lấy đi 1 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "mai có 97 quả cam, , thu nhiều hơn mai 30 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "an nặng 45kg , bình nặng hơn an, 1kg , hỏi bình nặng bao nhiêu kg", "breaks": [2, 7]}
+{"text": "nam có 98 quả cam, , cho nam 43 quả , hỏi nam còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "an có 27 quả cam , bình nhiều hơn an 7 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 70 quả xoài. chia đều cho 2 người. mỗi người được bao nhiêu quả.", "breaks": [3, 8]}
+{"text": "huy có 91 cây bút., cho huy 20 cây. hỏi huy còn lại bao nhiêu cây.", "breaks": [4, 8]}
+{"text": "hoa có 48 quả táo cho hoa 47 quả hỏi hoa còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "một hộp có 17 viên bi 6 hộp có mấy viên bi", "breaks": [5]}
+{"text": "an nặng 45kg , bình nặng hơn an 1kg , hỏi bình nặng bao nhiêu kg", "breaks": [2, 7]}
+{"text": "nam có 23 quả cam , bình nhiều hơn nam 22 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một lớp học có 29 bàn , 25 lớp học có mấy bàn", "breaks": [5]}
+{"text": "huy có 51 quả cam thu nhiều hơn huy 23 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "huy có 49 quả cam , cho huy 39 quả , hỏi huy còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "huy có 49 quả cam. cho huy 39 quả. hỏi huy còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "trong rổ có 33 quả cam, , lấy đi 16 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "lớp học có 35 học sinh , có 17 bạn nam , hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "trong hộp có 92 cái kẹo, lấy đi 21 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "có 53 cái kẹo chia đều cho 8 học sinh hỏi mỗi học sinh được mấy cái kẹo", "breaks": [3, 9]}
+{"text": "hoa có 24 viên bi, , cho hoa 18 viên , hỏi hoa còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "lan có 49 quả cam thu nhiều hơn lan 37 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lan có 49 quả cam thu nhiều hơn lan 37 quả, hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một con gà có 27 chân 13 con gà có mấy chân", "breaks": [5]}
+{"text": "huy có 76 quả cam , bình nhiều hơn huy 41, quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong hộp có 2 quả táo, , lấy đi 1 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "có 27 quyển vở, , chia đều cho 3 người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "lan có 49 quả cam. thu nhiều hơn lan 37 quả., hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "lan có 66 quả cam., thu nhiều hơn lan 25 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "huy có 91 cây bút cho huy 20 cây, hỏi huy còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "một con gà có 34 chân 24 con gà có mấy chân", "breaks": [5]}
+{"text": "an nặng 98kg , bình nặng hơn an 20kg , hỏi bình nặng bao nhiêu kg", "breaks": [2, 7]}
+{"text": "có 1 quyển vở. chia đều cho 3 người. mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "một cây bút có 87 cái 4 cây bút có mấy cái", "breaks": [5]}
+{"text": "một bàn học có 41 chân. 12 bàn học có mấy chân.", "breaks": [5]}
+{"text": "có 21 cây bút, chia đều cho 7 nhóm hỏi mỗi nhóm được mấy cây bút", "breaks": [3, 8]}
+{"text": "trong giỏ có 37 cái kẹo , lấy đi 19 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "lớp học có 35 học sinh. có 17 bạn nam., hỏi có bao nhiêu bạn nữ.", "breaks": [5, 9]}
+{"text": "có 27 quyển vở chia đều cho 3 người mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "an có 15 quả cam., bình nhiều hơn an 3 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "một cây bút có 91 cái, 48 cây bút có mấy cái", "breaks": [5]}
+{"text": "hoa có 87 quả cam , cho hoa 13 quả , hỏi hoa còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "lớp a có 43 học sinh lớp b nhiều hơn lớp a 37 học sinh hỏi lớp b có bao nhiêu học sinh", "breaks": [5, 14]}
+{"text": "lan có 33 quả cam hoa nhiều hơn lan 32 quả hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một xe bus có 72 chỗ ngồi , 49 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "có 1 quyển vở , chia đều cho 3, người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "có 26 bánh kẹo , chia đều cho 4, người , mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "có 98 bánh kẹo, chia đều cho 3 người mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "nam có 63 quả cam. cho nam 9 quả., hỏi nam còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "an có 83 quả cam , bình nhiều hơn an 45 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "tu có 3 viên bi, cho tu 3 viên hỏi tu còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "một bông hoa có 67 cánh. 24 bông hoa có mấy cánh.", "breaks": [5]}
+{"text": "trong tủ có 65 quả cam , lấy đi 41, quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "nam có 26 quả cam , thu nhiều hơn nam 2 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 69 bánh kẹo., chia đều cho 4 người. mỗi người được bao nhiêu bánh.", "breaks": [3, 8]}
+{"text": "lan có 88 quả cam , minh nhiều hơn lan 13, quả , hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một hộp có 17 viên bi , 6 hộp có mấy viên bi", "breaks": [5]}
+{"text": "tủ sách có 23 quyển cho 22 người mượn mỗi người 2 quyển hỏi còn lại bao nhiêu quyển", "breaks": [4, 12]}
+{"text": "có 4 quyển vở chia đều cho 3 người, mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "một xe bus có 72 chỗ ngồi 49 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "trên bàn có 51 quả táo. lấy đi 2 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "thu có 67 cây bút. cho thu 43 cây. hỏi thu còn lại bao nhiêu cây.", "breaks": [4, 8]}
+{"text": "nam cao 73cm, nam cao hơn minh 21cm hỏi minh cao bao nhiêu cm", "breaks": [2, 7]}
+{"text": "có 72 quả táo. chia đều cho 5 bạn., hỏi mỗi bạn được mấy quả táo.", "breaks": [3, 8]}
+{"text": "một con gà có 9 cái , 3 con gà có mấy cái", "breaks": [5]}
+{"text": "có 62 quả xoài, chia đều cho 3 người mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "một cây bút có 91 cái , 48 cây bút có mấy cái", "breaks": [5]}
+{"text": "tủ sách có 23 quyển , cho 22 người mượn mỗi người 2, quyển , hỏi còn lại bao nhiêu quyển", "breaks": [4, 12]}
+{"text": "có 52 kg gạo , chia đều cho 40 gia đình , hỏi mỗi gia đình được mấy kg gạo", "breaks": [3, 9]}
+{"text": "một quả táo có 69 cái 20 quả táo có mấy cái", "breaks": [5]}
+{"text": "có 4 quyển vở , chia đều cho 3, người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "huy có 76 quả cam. bình nhiều hơn huy 41 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trong giỏ có 37 cái kẹo. lấy đi 19 cái. hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "an có 15 quả cam , bình nhiều hơn an 3 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một bông hoa có 67 cánh , 24 bông hoa có mấy cánh", "breaks": [5]}
+{"text": "có 25 chiếc bánh., chia đều cho 3 người. mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "an có 54 chiếc bánh, , cho an 20 chiếc , hỏi an còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "một quả cam có 76 cái, 21 quả cam có mấy cái", "breaks": [5]}
+{"text": "tủ sách có 23 quyển , cho 22 người mượn mỗi người 2 quyển , hỏi còn lại bao nhiêu quyển", "breaks": [4, 12]}
+{"text": "thư viện có 33 ghế. mượn đi 11 ghế., hỏi thư viện còn lại bao nhiêu ghế.", "breaks": [4, 8]}
+{"text": "an nặng 98kg. bình nặng hơn an 20kg., hỏi bình nặng bao nhiêu kg.", "breaks": [2, 7]}
+{"text": "một hộp có 52 viên bi , 27 hộp có mấy viên bi", "breaks": [5]}
+{"text": "an có 15 quả cam. bình nhiều hơn an 3 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trong hộp có 12 quả cam lấy đi 1 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "có 69 chiếc bánh, chia đều cho 3 người mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "lan có 69 quả táo., nam hơn lan 11 quả. hỏi nam có mấy quả.", "breaks": [4, 9]}
+{"text": "một bông hoa có 67 cánh 24 bông hoa có mấy cánh", "breaks": [5]}
+{"text": "có 24 viên kẹo. chia đều cho 2 người., mỗi người được bao nhiêu viên.", "breaks": [3, 8]}
+{"text": "trên bàn có 8 cái kẹo. lấy đi 5 cái., hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "tu có 81 viên bi cho tu 33 viên hỏi tu còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "trên bàn có 21 chiếc bánh , lấy đi 16 chiếc , hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "nam có 9 chiếc bánh cho nam 7 chiếc hỏi nam còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "lan có 14 quả táo, nam hơn lan 10 quả hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "một cây bút có 91 cái 48 cây bút có mấy cái", "breaks": [5]}
+{"text": "có 26 bánh kẹo chia đều cho 4 người, mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "hoa có 87 quả cam cho hoa 13 quả, hỏi hoa còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "lan có 87 quả cam , minh nhiều hơn lan 42 quả , hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lớp học có 56 học sinh, , có 11 bạn nam , hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "một bàn học có 41 chân 12 bàn học có mấy chân", "breaks": [5]}
+{"text": "lớp học có 76 học sinh , có 28 bạn, nam , hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "lan có 14 quả táo , nam hơn lan 10, quả , hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "nam có 9 quả cam. hoa nhiều hơn nam 2 quả. hỏi hoa có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "một quả cam có 51 cái 9 quả cam có mấy cái", "breaks": [5]}
+{"text": "nam có 63 quả cam cho nam 9 quả hỏi nam còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "trong hộp có 92 chiếc bánh lấy đi 20 chiếc hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "lớp học có 35 học sinh, có 17 bạn nam hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "lan có 88 quả táo. nam hơn lan 39 quả. hỏi nam có mấy quả.", "breaks": [4, 9]}
+{"text": "trong rổ có 12 quả cam. lấy đi 2 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "an có 54 chiếc bánh., cho an 20 chiếc. hỏi an còn lại bao nhiêu chiếc.", "breaks": [4, 8]}
+{"text": "hoa có 87 quả cam cho hoa 13 quả hỏi hoa còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "trong giỏ có 37 cái kẹo, lấy đi 19 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "lớp học có 35 học sinh , có 17 bạn nam , hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "có 1 chiếc bánh chia đều cho 5 người mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "một hộp có 17 viên bi, , 6 hộp có mấy viên bi", "breaks": [5]}
+{"text": "huy có 62 quả cam., hoa nhiều hơn huy 4 quả. hỏi hoa có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "thu có 67 cây bút. cho thu 43 cây. hỏi thu còn lại bao nhiêu cây.", "breaks": [4, 8]}
+{"text": "nam có 26 quả cam, thu nhiều hơn nam 2 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "mai có 97 quả cam. thu nhiều hơn mai 30 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "có 47 quyển vở , chia đều cho 2 người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "trong rổ có 12 quả cam, lấy đi 2 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "an có 24 quyển vở. cho an 15 quyển., hỏi an còn lại bao nhiêu quyển.", "breaks": [4, 8]}
+{"text": "an có 54 chiếc bánh cho an 20 chiếc, hỏi an còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "hoa có 24 viên bi , cho hoa 18, viên , hỏi hoa còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "có 69 bánh kẹo. chia đều cho 4 người., mỗi người được bao nhiêu bánh.", "breaks": [3, 8]}
+{"text": "huy có 91 cây bút , cho huy 20 cây , hỏi huy còn lại bao nhiêu cây", "breaks": [4, 8]}
+{"text": "hoa có 87 quả cam. cho hoa 13 quả., hỏi hoa còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "trường có 77 phòng học. xây thêm 48 phòng., hỏi trường có tất cả bao nhiêu phòng.", "breaks": [4, 8]}
+{"text": "trên bàn có 77 cái kẹo, lấy đi 18 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "trường có 77 phòng học. xây thêm 48 phòng. hỏi trường có tất cả bao nhiêu phòng.", "breaks": [4, 8]}
+{"text": "lan có 69 quả táo nam hơn lan 11 quả hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "lan có 33 quả cam, hoa nhiều hơn lan 32 quả hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một xe bus có 53 chỗ ngồi 6 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "thu có 23 cái kẹo cho thu 17 cái hỏi thu còn lại bao nhiêu cái", "breaks": [4, 8]}
+{"text": "một quả cam có 7 cái. 5 quả cam có mấy cái.", "breaks": [5]}
+{"text": "nam có 63 quả cam. cho nam 9 quả. hỏi nam còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "lan có 69 quả táo nam hơn lan 11 quả, hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "có 55 viên kẹo , chia đều cho 4 người , mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "hoa có 48 quả táo., cho hoa 47 quả. hỏi hoa còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "an có 45 quả cam., bình nhiều hơn an 2 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "an có 83 quả cam bình nhiều hơn an 45 quả hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một lớp học có 94 bàn, , 29 lớp học có mấy bàn", "breaks": [5]}
+{"text": "huy có 51 quả cam , thu nhiều hơn huy 23 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "thu có 90 cái kẹo , cho thu 33 cái , hỏi thu còn lại bao nhiêu cái", "breaks": [4, 8]}
+{"text": "trong hộp có 92 cái kẹo , lấy đi 21 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "trên bàn có 8 cái kẹo , lấy đi 5 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "một bông hoa có 37 cánh. 17 bông hoa có mấy cánh.", "breaks": [5]}
+{"text": "an có 83 quả cam bình nhiều hơn an 45 quả, hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong rổ có 5 quả táo, lấy đi 4 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "trong rổ có 77 chiếc bánh, , lấy đi 6 chiếc , hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "một quả táo có 69 cái, , 20 quả táo có mấy cái", "breaks": [5]}
+{"text": "trong rổ có 30 quả táo. lấy đi 12 quả., hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "an có 59 quả cam hoa nhiều hơn an 39 quả hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trên bàn có 8 cái kẹo lấy đi 5 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "trong hộp có 100 quyển vở, lấy đi 45 quyển hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "một con gà có 27 cái 27 con gà có mấy cái", "breaks": [5]}
+{"text": "lớp học có 37 học sinh. có 8 bạn nam. hỏi có bao nhiêu bạn nữ.", "breaks": [5, 9]}
+{"text": "trên bàn có 21 chiếc bánh., lấy đi 16 chiếc. hỏi còn lại bao nhiêu chiếc.", "breaks": [5, 9]}
+{"text": "lan có 88 quả cam. minh nhiều hơn lan 13 quả., hỏi minh có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "nam có 86 quả cam., thu nhiều hơn nam 45 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "an có 54 chiếc bánh. cho an 20 chiếc. hỏi an còn lại bao nhiêu chiếc.", "breaks": [4, 8]}
+{"text": "một quả cam có 80 cái, , 31 quả cam có mấy cái", "breaks": [5]}
+{"text": "trong tủ có 29 chiếc bánh lấy đi 1 chiếc, hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "mai có 97 quả cam, thu nhiều hơn mai 30 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một xe bus có 72 chỗ ngồi 49 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "linh có 8 viên bi. cho linh 6 viên. hỏi linh còn lại bao nhiêu viên.", "breaks": [4, 8]}
+{"text": "một tòa nhà có 58 tầng , 17 tòa nhà có mấy tầng", "breaks": [5]}
+{"text": "có 36 quyển vở , chia đều cho 5 người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "thư viện có 33 ghế. mượn đi 11 ghế. hỏi thư viện còn lại bao nhiêu ghế.", "breaks": [4, 8]}
+{"text": "mai có 91 quả cam, linh nhiều hơn mai 37 quả hỏi linh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một hộp có 52 viên bi., 27 hộp có mấy viên bi.", "breaks": [5]}
+{"text": "thư viện có 33 ghế , mượn đi 11, ghế , hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "bình có 54 quyển vở hoa ít hơn bình 35 quyển hỏi hoa có bao nhiêu quyển vở", "breaks": [4, 10]}
+{"text": "huy có 51 quả cam, thu nhiều hơn huy 23 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trên bàn có 99 quyển vở , lấy đi 17, quyển , hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "một lớp học có 29 bàn, , 25 lớp học có mấy bàn", "breaks": [5]}
+{"text": "trong rổ có 80 cái kẹo, , lấy đi 23 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "tu có 97 quả cam cho tu 40 quả, hỏi tu còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "vườn có 5 cây xoài, , chết 1 cây , hỏi vườn còn lại bao nhiêu cây", "breaks": [4, 7]}
+{"text": "an nặng 98kg. bình nặng hơn an 20kg. hỏi bình nặng bao nhiêu kg.", "breaks": [2, 7]}
+{"text": "trên bàn có 8 cái kẹo. lấy đi 5 cái. hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "trong hộp có 100 quyển vở lấy đi 45 quyển, hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "hoa có 24 viên bi, cho hoa 18 viên hỏi hoa còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "lớp học có 76 học sinh, có 28 bạn nam hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "có 16 quyển vở chia đều cho 4 lớp hỏi mỗi lớp được mấy quyển vở", "breaks": [3, 8]}
+{"text": "nam cao 73cm., nam cao hơn minh 21cm. hỏi minh cao bao nhiêu cm.", "breaks": [2, 7]}
+{"text": "một bàn học có 100 chân, , 39 bàn học có mấy chân", "breaks": [5]}
+{"text": "nam có 63 quả cam., cho nam 9 quả. hỏi nam còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "trong rổ có 77 chiếc bánh , lấy đi 6 chiếc , hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "có 44 quả xoài, chia đều cho 5 người mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "nam có 86 quả cam , thu nhiều hơn nam 45, quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 8 cái kẹo. chia đều cho 2 học sinh., hỏi mỗi học sinh được mấy cái kẹo.", "breaks": [3, 9]}
+{"text": "trong tủ có 58 quyển vở, lấy đi 50 quyển hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "có 11 kg gạo chia đều cho 11 gia đình hỏi mỗi gia đình được mấy kg gạo", "breaks": [3, 9]}
+{"text": "có 70 quả xoài., chia đều cho 2 người. mỗi người được bao nhiêu quả.", "breaks": [3, 8]}
+{"text": "trong giỏ có 68 quả táo. lấy đi 16 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "trên bàn có 51 quả táo. lấy đi 2 quả., hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "hoa có 87 quả cam , cho hoa 13 quả , hỏi hoa còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "có 52 kg gạo , chia đều cho 40 gia, đình , hỏi mỗi gia đình được mấy kg gạo", "breaks": [3, 9]}
+{"text": "an có 27 quả cam., bình nhiều hơn an 7 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "có 98 bánh kẹo chia đều cho 3 người mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "một xe bus có 53 chỗ ngồi. 6 xe bus có mấy chỗ ngồi.", "breaks": [6]}
+{"text": "trong tủ có 58 quyển vở, , lấy đi 50 quyển , hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "an có 45 quả cam , bình nhiều hơn an 2 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 52 kg gạo. chia đều cho 40 gia đình. hỏi mỗi gia đình được mấy kg gạo.", "breaks": [3, 9]}
+{"text": "trong giỏ có 68 quả táo, , lấy đi 16 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "nam có 79 quả cam. minh nhiều hơn nam 21 quả. hỏi minh có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "mai có 91 quả cam , linh nhiều hơn mai 37, quả , hỏi linh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "huy có 62 quả cam, , hoa nhiều hơn huy 4 quả , hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lan có 33 quả cam , hoa nhiều hơn lan 32, quả , hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lớp học có 56 học sinh., có 11 bạn nam. hỏi có bao nhiêu bạn nữ.", "breaks": [5, 9]}
+{"text": "có 98 bánh kẹo chia đều cho 3 người mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "linh có 72 quyển vở. cho linh 44 quyển. hỏi linh còn lại bao nhiêu quyển.", "breaks": [4, 8]}
+{"text": "nam có 9 quả cam., hoa nhiều hơn nam 2 quả. hỏi hoa có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "một con gà có 27 cái, , 27 con gà có mấy cái", "breaks": [5]}
+{"text": "có 44 quả xoài. chia đều cho 5 người., mỗi người được bao nhiêu quả.", "breaks": [3, 8]}
+{"text": "có 1 chiếc bánh chia đều cho 5 người mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "an có 45 quả cam bình nhiều hơn an 2 quả hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một xe bus có 72 chỗ ngồi , 49 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "lan có 87 quả cam, minh nhiều hơn lan 42 quả hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trên bàn có 99 quyển vở, lấy đi 17 quyển hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "một xe bus có 95 chỗ ngồi, , 38 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "trong rổ có 30 quả táo lấy đi 12 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "an có 54 chiếc bánh cho an 20 chiếc hỏi an còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "một con gà có 19 chân , 1 con gà có mấy chân", "breaks": [5]}
+{"text": "trong hộp có 12 quả cam. lấy đi 1 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "an có 27 quả cam bình nhiều hơn an 7 quả, hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 72 quả táo chia đều cho 5 bạn, hỏi mỗi bạn được mấy quả táo", "breaks": [3, 8]}
+{"text": "trong giỏ có 37 cái kẹo , lấy đi 19 cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "lớp a có 43 học sinh , lớp b nhiều hơn lớp a 37 học sinh , hỏi lớp b có bao nhiêu học sinh", "breaks": [5, 14]}
+{"text": "lan có 12 quả táo. mẹ cho thêm 1 quả nữa. hỏi lan có mấy quả táo.", "breaks": [4, 10]}
+{"text": "huy có 76 quả cam., bình nhiều hơn huy 41 quả. hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "một con gà có 9 cái , 3 con gà có mấy cái", "breaks": [5]}
+{"text": "một bàn học có 100 chân , 39 bàn học có mấy chân", "breaks": [5]}
+{"text": "có 59 bánh kẹo , chia đều cho 5 người , mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "một bông hoa có 37 cánh, 17 bông hoa có mấy cánh", "breaks": [5]}
+{"text": "trên bàn có 99 quyển vở lấy đi 17 quyển, hỏi còn lại bao nhiêu quyển", "breaks": [5, 9]}
+{"text": "một xe đạp có 97 bánh., 7 xe đạp có mấy bánh.", "breaks": [5]}
+{"text": "có 59 bánh kẹo , chia đều cho 5, người , mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "trong giỏ có 68 quả táo , lấy đi 16 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "một quả cam có 80 cái., 31 quả cam có mấy cái.", "breaks": [5]}
+{"text": "có 26 bánh kẹo , chia đều cho 4 người , mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "một bông hoa có 14 cánh, , 3 bông hoa có mấy cánh", "breaks": [5]}
+{"text": "tu có 97 quả cam , cho tu 40 quả , hỏi tu còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "an có 83 quả cam, , bình nhiều hơn an 45 quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 32 chiếc bánh chia đều cho 3 người mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "có 53 cái kẹo., chia đều cho 8 học sinh. hỏi mỗi học sinh được mấy cái kẹo.", "breaks": [3, 9]}
+{"text": "một quả cam có 7 cái, 5 quả cam có mấy cái", "breaks": [5]}
+{"text": "trong tủ có 65 quả cam lấy đi 41 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "an có 45 quả cam. bình nhiều hơn an 2 quả., hỏi bình có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "trong rổ có 77 chiếc bánh lấy đi 6 chiếc hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "một hộp có 65 viên bi. 18 hộp có mấy viên bi.", "breaks": [5]}
+{"text": "có 32 chiếc bánh. chia đều cho 3 người. mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "trong rổ có 33 quả cam. lấy đi 16 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "thư viện có 38 ghế mượn đi 17 ghế, hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "trong rổ có 5 quả táo lấy đi 4 quả hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "trong rổ có 33 quả cam lấy đi 16 quả, hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "linh có 72 quyển vở cho linh 44 quyển hỏi linh còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "trên bàn có 51 quả táo., lấy đi 2 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "có 70 quả xoài chia đều cho 2 người mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "lan có 49 quả cam, , thu nhiều hơn lan 37 quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 59 bánh kẹo. chia đều cho 5 người. mỗi người được bao nhiêu bánh.", "breaks": [3, 8]}
+{"text": "có 32 chiếc bánh , chia đều cho 3 người , mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "trong rổ có 80 cái kẹo. lấy đi 23 cái. hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "có 71 quả táo. chia đều cho 17 bạn., hỏi mỗi bạn được mấy quả táo.", "breaks": [3, 8]}
+{"text": "trong giỏ có 94 quả táo. lấy đi 13 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "có 24 viên kẹo. chia đều cho 2 người. mỗi người được bao nhiêu viên.", "breaks": [3, 8]}
+{"text": "tủ sách có 23 quyển cho 22 người mượn mỗi người 2 quyển, hỏi còn lại bao nhiêu quyển", "breaks": [4, 12]}
+{"text": "trong giỏ có 37 cái kẹo. lấy đi 19 cái., hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "một cái bàn có 11 cái 8 cái bàn có mấy cái", "breaks": [5]}
+{"text": "có 47 quyển vở. chia đều cho 2 người. mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "tủ sách có 23 quyển. cho 22 người mượn mỗi người 2 quyển., hỏi còn lại bao nhiêu quyển.", "breaks": [4, 12]}
+{"text": "có 32 chiếc bánh chia đều cho 3 người, mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "lớp học có 76 học sinh. có 28 bạn nam., hỏi có bao nhiêu bạn nữ.", "breaks": [5, 9]}
+{"text": "lan có 66 quả cam, thu nhiều hơn lan 25 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong giỏ có 94 quả táo lấy đi 13 quả, hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "an nặng 98kg., bình nặng hơn an 20kg. hỏi bình nặng bao nhiêu kg.", "breaks": [2, 7]}
+{"text": "có 23 viên kẹo, , chia đều cho 4 người , mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "lan có 88 quả táo nam hơn lan 39 quả hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "một bông hoa có 14 cánh , 3 bông hoa có mấy cánh", "breaks": [5]}
+{"text": "có 27 quyển vở chia đều cho 3 người mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "trong giỏ có 68 quả táo. lấy đi 16 quả., hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "an nặng 45kg , bình nặng hơn an 1kg , hỏi bình nặng bao nhiêu kg", "breaks": [2, 7]}
+{"text": "một cây bút có 84 cái., 46 cây bút có mấy cái.", "breaks": [5]}
+{"text": "trong giỏ có 94 quả táo. lấy đi 13 quả. hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "trong hộp có 92 chiếc bánh , lấy đi 20, chiếc , hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "trong rổ có 99 chiếc bánh , lấy đi 44 chiếc , hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "có 24 viên kẹo chia đều cho 2 người mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "có 98 bánh kẹo. chia đều cho 3 người. mỗi người được bao nhiêu bánh.", "breaks": [3, 8]}
+{"text": "lan có 87 quả cam , minh nhiều hơn lan 42 quả , hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "hoa có 24 viên bi cho hoa 18 viên hỏi hoa còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "một quả cam có 51 cái , 9 quả cam có mấy cái", "breaks": [5]}
+{"text": "an có 54 chiếc bánh. cho an 20 chiếc. hỏi an còn lại bao nhiêu chiếc.", "breaks": [4, 8]}
+{"text": "một con gà có 27 cái 27 con gà có mấy cái", "breaks": [5]}
+{"text": "thư viện có 38 ghế. mượn đi 8 ghế. hỏi thư viện còn lại bao nhiêu ghế.", "breaks": [4, 8]}
+{"text": "thư viện có 38 ghế , mượn đi 17 ghế , hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "có 83 chiếc bánh., chia đều cho 2 người. mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "nam có 9 quả cam, , hoa nhiều hơn nam 2 quả , hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "nam có 98 quả cam. cho nam 43 quả. hỏi nam còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "một quả táo có 69 cái , 20 quả táo có mấy cái", "breaks": [5]}
+{"text": "binh có 8 viên bi , cho binh 6 viên , hỏi binh còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "một con gà có 27 chân , 13 con gà có mấy chân", "breaks": [5]}
+{"text": "một hộp có 17 viên bi 6 hộp có mấy viên bi", "breaks": [5]}
+{"text": "nam có 11 quả cam, thu nhiều hơn nam 9 quả hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "trong giỏ có 68 quả táo , lấy đi 16, quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "lớp học có 35 học sinh, , có 17 bạn nam , hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "huy có 76 quả cam, bình nhiều hơn huy 41 quả hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "an nặng 45kg. bình nặng hơn an 1kg. hỏi bình nặng bao nhiêu kg.", "breaks": [2, 7]}
+{"text": "trên bàn có 21 chiếc bánh lấy đi 16 chiếc hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "một lớp học có 94 bàn 29 lớp học có mấy bàn", "breaks": [5]}
+{"text": "an có 24 quyển vở., cho an 15 quyển. hỏi an còn lại bao nhiêu quyển.", "breaks": [4, 8]}
+{"text": "trong rổ có 99 chiếc bánh. lấy đi 44 chiếc. hỏi còn lại bao nhiêu chiếc.", "breaks": [5, 9]}
+{"text": "một bông hoa có 67 cánh, , 24 bông hoa có mấy cánh", "breaks": [5]}
+{"text": "lớp học có 37 học sinh có 8 bạn nam hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "an có 15 quả cam bình nhiều hơn an 3 quả hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "mai có 91 quả cam. linh nhiều hơn mai 37 quả. hỏi linh có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "huy có 49 quả cam , cho huy 39, quả , hỏi huy còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "nam có 26 quả cam., thu nhiều hơn nam 2 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "có 16 quyển vở , chia đều cho 4 lớp , hỏi mỗi lớp được mấy quyển vở", "breaks": [3, 8]}
+{"text": "nam có 63 quả cam, , cho nam 9 quả , hỏi nam còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "trong rổ có 5 quả táo , lấy đi 4 quả , hỏi còn lại bao nhiêu quả", "breaks": [5, 9]}
+{"text": "một quả cam có 7 cái. 5 quả cam có mấy cái.", "breaks": [5]}
+{"text": "có 26 bánh kẹo, chia đều cho 4 người mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "an có 45 quả cam bình nhiều hơn an 2 quả hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một tòa nhà có 58 tầng , 17 tòa nhà có mấy tầng", "breaks": [5]}
+{"text": "an có 83 quả cam bình nhiều hơn an 45 quả hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "nam có 26 quả cam. thu nhiều hơn nam 2 quả. hỏi thu có bao nhiêu quả cam.", "breaks": [4, 10]}
+{"text": "có 98 bánh kẹo., chia đều cho 3 người. mỗi người được bao nhiêu bánh.", "breaks": [3, 8]}
+{"text": "một hộp có 17 viên bi. 6 hộp có mấy viên bi.", "breaks": [5]}
+{"text": "một xe bus có 53 chỗ ngồi 6 xe bus có mấy chỗ ngồi", "breaks": [6]}
+{"text": "lớp học có 56 học sinh, có 11 bạn nam hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "trường có 77 phòng học xây thêm 48 phòng hỏi trường có tất cả bao nhiêu phòng", "breaks": [4, 8]}
+{"text": "có 55 viên kẹo. chia đều cho 4 người. mỗi người được bao nhiêu viên.", "breaks": [3, 8]}
+{"text": "có 1 quyển vở chia đều cho 3 người mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "nam có 9 quả cam hoa nhiều hơn nam 2 quả hỏi hoa có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "một lớp học có 29 bàn. 25 lớp học có mấy bàn.", "breaks": [5]}
+{"text": "có 8 cái kẹo chia đều cho 2 học sinh, hỏi mỗi học sinh được mấy cái kẹo", "breaks": [3, 9]}
+{"text": "thu có 67 cây bút., cho thu 43 cây. hỏi thu còn lại bao nhiêu cây.", "breaks": [4, 8]}
+{"text": "lan có 87 quả cam minh nhiều hơn lan 42 quả hỏi minh có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "thu có 90 cái kẹo, cho thu 33 cái hỏi thu còn lại bao nhiêu cái", "breaks": [4, 8]}
+{"text": "trên bàn có 23 cái kẹo, lấy đi 12 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "hoa có 87 quả cam., cho hoa 13 quả. hỏi hoa còn lại bao nhiêu quả.", "breaks": [4, 8]}
+{"text": "trong hộp có 92 cái kẹo., lấy đi 21 cái. hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "tu có 3 viên bi , cho tu 3 viên , hỏi tu còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "có 53 cái kẹo, chia đều cho 8 học sinh hỏi mỗi học sinh được mấy cái kẹo", "breaks": [3, 9]}
+{"text": "thu có 90 cái kẹo , cho thu 33 cái , hỏi thu còn lại bao nhiêu cái", "breaks": [4, 8]}
+{"text": "có 69 chiếc bánh , chia đều cho 3 người , mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "có 53 cái kẹo. chia đều cho 8 học sinh. hỏi mỗi học sinh được mấy cái kẹo.", "breaks": [3, 9]}
+{"text": "tủ có 68 quyển sách mua thêm 47 quyển nữa hỏi tủ có tất cả bao nhiêu quyển sách", "breaks": [4, 9]}
+{"text": "hoa có 24 viên bi cho hoa 18 viên, hỏi hoa còn lại bao nhiêu viên", "breaks": [4, 8]}
+{"text": "hoa có 24 viên bi. cho hoa 18 viên. hỏi hoa còn lại bao nhiêu viên.", "breaks": [4, 8]}
+{"text": "tu có 81 viên bi. cho tu 33 viên., hỏi tu còn lại bao nhiêu viên.", "breaks": [4, 8]}
+{"text": "trong giỏ có 23 cái kẹo , lấy đi 19, cái , hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "lớp học có 37 học sinh có 8 bạn nam, hỏi có bao nhiêu bạn nữ", "breaks": [5, 9]}
+{"text": "có 47 quyển vở, , chia đều cho 2 người , mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "nam cao 73cm. nam cao hơn minh 21cm. hỏi minh cao bao nhiêu cm.", "breaks": [2, 7]}
+{"text": "lớp học có 76 học sinh., có 28 bạn nam. hỏi có bao nhiêu bạn nữ.", "breaks": [5, 9]}
+{"text": "lan có 45 quả cam, , cho lan 37 quả , hỏi lan còn lại bao nhiêu quả", "breaks": [4, 8]}
+{"text": "bình có 54 quyển vở., hoa ít hơn bình 35 quyển. hỏi hoa có bao nhiêu quyển vở.", "breaks": [4, 10]}
+{"text": "tủ sách có 23 quyển, , cho 22 người mượn mỗi người 2 quyển , hỏi còn lại bao nhiêu quyển", "breaks": [4, 12]}
+{"text": "có 52 kg gạo chia đều cho 40 gia đình hỏi mỗi gia đình được mấy kg gạo", "breaks": [3, 9]}
+{"text": "trong rổ có 99 chiếc bánh. lấy đi 44 chiếc. hỏi còn lại bao nhiêu chiếc.", "breaks": [5, 9]}
+{"text": "thư viện có 33 ghế , mượn đi 11 ghế , hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "có 25 chiếc bánh, , chia đều cho 3 người , mỗi người được bao nhiêu chiếc", "breaks": [3, 8]}
+{"text": "trong hộp có 2 quả táo. lấy đi 1 quả., hỏi còn lại bao nhiêu quả.", "breaks": [5, 9]}
+{"text": "an có 83 quả cam , bình nhiều hơn an 45, quả , hỏi bình có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "lan có 49 quả cam , thu nhiều hơn lan 37, quả , hỏi thu có bao nhiêu quả cam", "breaks": [4, 10]}
+{"text": "có 59 bánh kẹo , chia đều cho 5 người , mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "lớp a có 43 học sinh. lớp b nhiều hơn lớp a 37 học sinh., hỏi lớp b có bao nhiêu học sinh.", "breaks": [5, 14]}
+{"text": "trong tủ có 29 chiếc bánh lấy đi 1 chiếc hỏi còn lại bao nhiêu chiếc", "breaks": [5, 9]}
+{"text": "có 44 quả xoài chia đều cho 5 người mỗi người được bao nhiêu quả", "breaks": [3, 8]}
+{"text": "bình có 54 quyển vở , hoa ít hơn bình 35, quyển , hỏi hoa có bao nhiêu quyển vở", "breaks": [4, 10]}
+{"text": "một bàn học có 41 chân, , 12 bàn học có mấy chân", "breaks": [5]}
+{"text": "có 24 viên kẹo chia đều cho 2 người mỗi người được bao nhiêu viên", "breaks": [3, 8]}
+{"text": "một con gà có 19 chân. 1 con gà có mấy chân.", "breaks": [5]}
+{"text": "có 1 chiếc bánh. chia đều cho 5 người. mỗi người được bao nhiêu chiếc.", "breaks": [3, 8]}
+{"text": "tủ sách có 23 quyển , cho 22 người mượn mỗi người 2 quyển , hỏi còn lại bao nhiêu quyển", "breaks": [4, 12]}
+{"text": "một con gà có 9 cái. 3 con gà có mấy cái.", "breaks": [5]}
+{"text": "có 36 quyển vở chia đều cho 5 người mỗi người được bao nhiêu quyển", "breaks": [3, 8]}
+{"text": "có 98 bánh kẹo. chia đều cho 3 người., mỗi người được bao nhiêu bánh.", "breaks": [3, 8]}
+{"text": "một xe đạp có 97 bánh 7 xe đạp có mấy bánh", "breaks": [5]}
+{"text": "linh có 8 viên bi., cho linh 6 viên. hỏi linh còn lại bao nhiêu viên.", "breaks": [4, 8]}
+{"text": "trong giỏ có 23 cái kẹo., lấy đi 19 cái. hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "trên bàn có 77 cái kẹo lấy đi 18 cái hỏi còn lại bao nhiêu cái", "breaks": [5, 9]}
+{"text": "lan có 40 cây bút. cho lan 7 cây., hỏi lan còn lại bao nhiêu cây.", "breaks": [4, 8]}
+{"text": "linh có 72 quyển vở , cho linh 44, quyển , hỏi linh còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "trong rổ có 77 chiếc bánh. lấy đi 6 chiếc. hỏi còn lại bao nhiêu chiếc.", "breaks": [5, 9]}
+{"text": "trong rổ có 80 cái kẹo. lấy đi 23 cái., hỏi còn lại bao nhiêu cái.", "breaks": [5, 9]}
+{"text": "thư viện có 33 ghế, mượn đi 11 ghế hỏi thư viện còn lại bao nhiêu ghế", "breaks": [4, 8]}
+{"text": "lan có 40 cây bút. cho lan 7 cây. hỏi lan còn lại bao nhiêu cây.", "breaks": [4, 8]}
+{"text": "nam có 9 chiếc bánh cho nam 7 chiếc, hỏi nam còn lại bao nhiêu chiếc", "breaks": [4, 8]}
+{"text": "có 98 bánh kẹo chia đều cho 3 người, mỗi người được bao nhiêu bánh", "breaks": [3, 8]}
+{"text": "lan có 14 quả táo , nam hơn lan 10 quả , hỏi nam có mấy quả", "breaks": [4, 9]}
+{"text": "một con gà có 19 chân 1 con gà có mấy chân", "breaks": [5]}
+{"text": "an có 24 quyển vở cho an 15 quyển hỏi an còn lại bao nhiêu quyển", "breaks": [4, 8]}
+{"text": "một xe bus có 95 chỗ ngồi., 38 xe bus có mấy chỗ ngồi.", "breaks": [6]}
+{"text": "có 1 quyển vở., chia đều cho 3 người. mỗi người được bao nhiêu quyển.", "breaks": [3, 8]}
+{"text": "có 23 viên kẹo. chia đều cho 4 người., mỗi người được bao nhiêu viên.", "breaks": [3, 8]}

@@ -1,0 +1,89 @@
+Câu 1: Lan có 3 quả táo, mẹ cho thêm 2 quả. Hỏi Lan có tất cả bao nhiêu quả táo?
+Đáp án: Lan có 3 nhiêu táo
+
+Câu 2: Bình có 5 cái kẹo, Nam có 7 cái kẹo. Hỏi cả hai có tất cả bao nhiêu cái kẹo?
+Đáp án: Đã cập nhật: Nam có 7 cái kẹo
+
+Câu 3: Trong giỏ có 12 quả cam, An lấy ra 4 quả. Hỏi trong giỏ còn lại bao nhiêu quả cam?
+Đáp án: Đã cập nhật: An có 4  quả
+
+Câu 4: Một con gà có 2 chân. Hỏi 5 con gà có tất cả bao nhiêu chân?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 5: Có 15 viên bi chia đều cho 3 bạn. Hỏi mỗi bạn được mấy viên bi?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 6: Một cửa hàng bán 8 cây bút, mỗi cây giá 5 nghìn đồng. Hỏi tổng số tiền là bao nhiêu?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 7: Trên cành có 10 con chim, bắn rơi 3 con. Hỏi còn lại mấy con chim?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 8: Lan có 6 quyển vở, cho Mai 2 quyển. Hỏi Lan còn lại mấy quyển vở?
+Đáp án: Đã cập nhật: Lan có 6 quyển vở
+
+Câu 9: Một con mèo có 4 chân. Hỏi 3 con mèo có bao nhiêu chân?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 10: Trong lớp có 20 học sinh, trong đó 8 bạn là nữ. Hỏi có bao nhiêu bạn nam?
+Đáp án: Đã cập nhật: bạn có 8  nữ
+
+Câu 11: Một chiếc bánh được cắt thành 8 phần bằng nhau. An ăn 3 phần. Hỏi còn lại mấy phần bánh?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 12: Một cây có 7 quả táo, mỗi quả nặng 2 lạng. Hỏi tất cả nặng bao nhiêu lạng?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 13: Bình có 12 cái kẹo, chia đều cho 4 bạn. Hỏi mỗi bạn được mấy cái?
+Đáp án: Đã cập nhật: Bình có 12 cái kẹo
+
+Câu 14: Có 9 quả bóng, cho đi 3 quả. Hỏi còn lại bao nhiêu quả bóng?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 15: Mỗi xe đạp có 2 bánh. Hỏi 6 xe đạp có bao nhiêu bánh?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 16: Có 5 con vịt, mỗi con có 2 chân. Hỏi tất cả có bao nhiêu chân vịt?
+Đáp án: Đã cập nhật: con có 2  chân
+
+Câu 17: Trong lớp có 24 học sinh, chia đều thành 4 nhóm. Hỏi mỗi nhóm có mấy bạn?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 18: Một cửa hàng có 10 cái bút, bán 3 cái. Hỏi còn lại mấy cái bút?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 19: Mỗi hộp có 6 quả trứng. Hỏi 5 hộp có tất cả bao nhiêu quả trứng?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 20: Lan có 8 quả cam, chia đều cho 4 người. Hỏi mỗi người được mấy quả cam?
+Đáp án: Đã cập nhật: Lan có 8 quả cam
+
+Câu 21: Một con chó có 4 chân. Hỏi 10 con chó có tất cả bao nhiêu chân?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 22: Có 30 học sinh xếp thành 5 hàng bằng nhau. Hỏi mỗi hàng có mấy học sinh?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 23: Bình có 10 nghìn đồng, mua 2 cái bánh, mỗi cái 3 nghìn đồng. Hỏi Bình còn lại bao nhiêu tiền?
+Đáp án: Đã cập nhật: Bình có 10 nghìn đồng
+
+Câu 24: Một bông hoa có 5 cánh. Hỏi 7 bông hoa có bao nhiêu cánh?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 25: Trong rổ có 18 quả trứng, bị vỡ 6 quả. Hỏi còn lại bao nhiêu quả trứng nguyên vẹn?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 26: Mỗi hộp sữa có giá 12 nghìn đồng. Hỏi 4 hộp sữa giá bao nhiêu?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 27: Mỗi con vịt có 2 cánh. Hỏi 9 con vịt có tất cả bao nhiêu cánh?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 28: Một quyển vở giá 6 nghìn đồng. Hỏi 5 quyển vở giá bao nhiêu?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 29: Có 50 viên kẹo, chia đều cho 10 bạn. Hỏi mỗi bạn được bao nhiêu viên?
+Đáp án: Đã xử lý bài toán thành công.
+
+Câu 30: Một xe có 4 bánh, hỏi 8 xe có tất cả bao nhiêu bánh xe?
+Đáp án: Đã xử lý bài toán thành công.
