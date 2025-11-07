@@ -128,7 +128,11 @@ class TextProcessor:
             sentences = self.splitter_model.split_sentences(text)
         else:
             sentences = {'sentences': [text]}
-        
+        # Dọn dẹp câu
+        cleaned_sentences = []
+        for s in sentences['sentences']:
+            cleaned = re.sub(r'[\.\,\;\!\?]+$', '', s.strip())  # xóa . , ; ! ? ở cuối
+            cleaned_sentences.append(cleaned)
         # Phân tích NER từng câu
         ner_results = []
         for sentence in sentences['sentences']:
@@ -828,4 +832,5 @@ def main():
     print(redirect(result))
     
 if __name__ == "__main__":
+
     main()
