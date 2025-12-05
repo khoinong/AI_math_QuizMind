@@ -1,0 +1,101 @@
+﻿Văn bản,Nhãn thực tế,Nhãn dự đoán,Đúng/Sai
+1 + 3 = bao nhiêu ?,basic,basic,True
+5 - 2 = bao nhiêu ?,basic,basic,True
+5 * 4 - 2,basic,basic,True
+10 / 2 + 3,basic,basic,True
+32 - 31 = ?,basic,basic,True
+12 + 15 = ?,basic,basic,True
+20 / 4 = ?,basic,basic,True
+7 * 6 = ?,basic,basic,True
+15 + 5 - 3 = ?,basic,basic,True
+9 * 3 + 6 = ?,basic,basic,True
+8 / 2 + 4 = ?,basic,basic,True
+100 - 45 = ?,basic,basic,True
+25 + 30 = ?,basic,basic,True
+14 * 2 = ?,basic,basic,True
+18 / 3 = ?,basic,basic,True
+50 + 25 - 10 = ?,basic,basic,True
+6 * 7 + 8 = ?,basic,basic,True
+9 / 3 + 5 = ?,basic,basic,True
+40 - 15 = mấy,basic,basic,True
+11 + 22 = mấy,basic,basic,True
+33 * 2 = mấy,basic,basic,True
+48 / 4 = mấy,basic,basic,True
+"đức có 30 quả táo, lan cho đức 6 quả, đức còn lại bao nhiêu quả táo ?",ownership,ownership,True
+"một cửa hàng có 50 cái bánh, bán đi 20 cái bánh, cửa hàng còn lại bao nhiêu cái bánh ?",ownership,ownership,True
+"huy có 15 viên kẹo, anh ấy ăn mất 5 viên kẹo, huy còn lại bao nhiêu viên kẹo ?",ownership,ownership,True
+"một lớp học có 40 học sinh, 10 học sinh nghỉ học, lớp còn lại bao nhiêu học sinh ?",ownership,ownership,True
+"chị hoa có 25 bông hoa, tặng bạn 7 bông hoa, chị hoa còn lại bao nhiêu bông hoa ?",ownership,ownership,True
+"một vườn cây có 60 cây, trồng thêm 15 cây nữa, vườn cây có tất cả bao nhiêu cây ?",ownership,ownership,True
+"minh có 80 ngàn đồng, tiêu hết 30 ngàn đồng, minh còn lại bao nhiêu ngàn đồng ?",ownership,ownership,True
+"một cửa hàng có 100 quyển sách, bán đi 40 quyển sách, cửa hàng còn lại bao nhiêu quyển sách ?",ownership,ownership,True
+"chị lan có 45 quả cam, cho bạn 10 quả cam, chị lan còn lại bao nhiêu quả cam ?",ownership,ownership,True
+"một lớp học có 35 học sinh, 5 học sinh đi học muộn, lớp còn lại bao nhiêu học sinh ?",ownership,ownership,True
+"lan có 5 quả cam,mẹ cho thêm 3 quả cam,lan có tất cả bao nhiêu quả cam ?",ownership,ownership,True
+"quân có 20 cái ví, nhặt được thêm 16 cái,quân có tất cả bao nhiêu cái ví ?",ownership,ownership,True
+"nam có 10 cái bút,mua thêm 12 cái bút,hỏi nam có tất cả bao nhiêu cái bút ?",ownership,ownership,True
+"hoa có 15 quyển vở,bạn tặng hoa 5 quyển vở,hỏi hoa có tất cả bao nhiêu quyển vở ?",ownership,ownership,True
+"huy có 8 con gà,ông nội cho thêm 4 con gà,hỏi huy có tất cả bao nhiêu con gà ?",ownership,ownership,True
+"nam có 31 cái quần, bố cho thêm 9 cái quần,nam có tất cả bao nhiêu cái quần ?",ownership,ownership,True
+"thắng có 50 quyển sách,bạn mượn thêm 20 quyển sách,thắng có tất cả bao nhiêu quyển sách ?",ownership,ownership,True
+"kim có 12 quả dứa,chị gái cho thêm 8 quả dứa,kim có tất cả bao nhiêu quả dứa ?",ownership,ownership,True
+"an có 18 cái bánh,an ăn mất 6 cái bánh,hỏi an còn lại bao nhiêu cái bánh ?",ownership,ownership,True
+2 quả cam + 3 quả cam = ?,basic_word,basic_word,True
+5 cái bút - 2 cái bút = ?,basic_word,basic_word,True
+4 quyển vở * 2 = ?,basic_word,basic_word,True
+20 cái bánh / 4 = ?,basic_word,basic_word,True
+10 con gà - 3 con gà = ?,basic_word,basic_word,True
+15 cái kẹo + 5 cái kẹo = ?,basic_word,basic_word,True
+8 quyển sách / 2 = ?,basic_word,basic_word,True
+6 quả táo * 3 = ?,basic_word,basic_word,True
+30 con cá - 10 con cá = ?,basic_word,basic_word,True
+12 cái ghế + 8 cái ghế = ?,basic_word,basic_word,True
+4 quả táo + 5 quả cam + 4 quả chuối = ?,basic_word,basic_word,True
+20 cái bánh - 5 cái bánh + 10 cái bánh = ?,basic_word,basic_word,True
+18 con vịt / 3 + 6 con vịt = ?,basic_word,basic_word,True
+9 quyển sách * 2 - 5 quyển sách = ?,basic_word,basic_word,True
+50 con gà / 5 + 10 con gà = ?,basic_word,basic_word,True
+3 con chó * 4 con chó - 6 con chó = ?,basic_word,basic_word,True
+16 cái bút / 4 + 8 cái bút = ?,basic_word,basic_word,True
+40 con cá - 15 con cá + 10 con cá = ?,basic_word,basic_word,True
+25 cái ghế + 15 cái ghế - 10 cái ghế = ?,basic_word,basic_word,True
+14 quả táo / 2 + 6 quả táo = ?,basic_word,basic_word,True
+"một con mèo có 4 chân, hai con mèo có tất cả bao nhiêu chân ?",ratio,ratio,True
+"một chiếc xe có 4 bánh, ba chiếc xe có tất cả bao nhiêu bánh ?",ratio,ratio,True
+"một con chim có 2 cánh, năm con chim có tất cả bao nhiêu cánh ?",ratio,ratio,True
+"một con chó có 4 chân, bốn con chó có tất cả bao nhiêu chân ?",ratio,ratio,True
+"một con cá có 1 vây, sáu con cá có tất cả bao nhiêu vây ?",ratio,ratio,True
+"một con gà có 2 chân, tám con gà có tất cả bao nhiêu chân ?",ratio,ratio,True
+"một con bò có 4 chân, bảy con bò có tất cả bao nhiêu chân ?",ratio,ratio,True
+"một con vịt có 2 chân, chín con vịt có tất cả bao nhiêu chân ?",ratio,ratio,True
+"một con thỏ có 4 chân, mười con thỏ có tất cả bao nhiêu chân ?",ratio,ratio,True
+"một con ngựa có 4 chân, hai con ngựa có tất cả bao nhiêu chân ?",ratio,ratio,True
+"nếu 1 cái bánh có giá 20 ngàn đồng, thì 5 cái bánh có giá bao nhiêu ?",ratio,ratio,True
+"nếu 1 quyển sách có giá 50 ngàn đồng, thì 3 quyển sách có giá bao nhiêu ?",ratio,ratio,True
+"nếu 1 cái bút có giá 10 ngàn đồng, thì 7 cái bút có giá bao nhiêu ?",ratio,ratio,True
+"nếu 1 cái cặp có giá 100 ngàn đồng, thì 4 cái cặp có giá bao nhiêu ?",ratio,ratio,True
+"3 con mèo có tất cả 12 chân, vậy 1 con mèo có bao nhiêu chân ?",ratio,ratio,True
+"2 chiếc xe có tất cả 8 bánh, vậy 1 chiếc xe có bao nhiêu bánh ?",ratio,ratio,True
+"5 con chim có tất cả 10 cánh, vậy 1 con chim có bao nhiêu cánh ?",ratio,ratio,True
+"4 con chó có tất cả 16 chân, vậy 1 con chó có bao nhiêu chân ?",ratio,ratio,True
+"6 con cá có tất cả 6 vây, vậy 1 con cá có bao nhiêu vây ?",ratio,ratio,True
+"tổng 2 số là 50, số thứ nhất là 20, số thứ hai là bao nhiêu ?",ratio,comparison,False
+"lan có 10 quả táo, nam hơn lan 5 quả táo, nam có bao nhiêu quả táo ?",comparison,comparison,True
+"một cửa hàng có 50 cái bánh, cửa hàng A có nhiều hơn cửa hàng B 20 cái bánh, cửa hàng B có bao nhiêu cái bánh ?",comparison,comparison,True
+"chị hoa có 30 bông hoa, chị hoa có ít hơn chị lan 10 bông hoa, chị lan có bao nhiêu bông hoa ?",comparison,comparison,True
+"huy có 15 viên kẹo, huy có nhiều hơn anh ấy 7 viên kẹo, anh ấy có bao nhiêu viên kẹo ?",comparison,comparison,True
+"một lớp học có 40 học sinh, lớp học A có ít hơn lớp học B 15 học sinh, lớp học B có bao nhiêu học sinh ?",comparison,comparison,True
+"minh có 80 ngàn đồng, minh có nhiều hơn anh ấy 25 ngàn đồng, anh ấy có bao nhiêu ngàn đồng ?",comparison,comparison,True
+"chị lan có 45 quả cam, chị lan có ít hơn chị hoa 12 quả cam, chị hoa có bao nhiêu quả cam ?",comparison,comparison,True
+"một cửa hàng có 100 quyển sách, cửa hàng A có nhiều hơn cửa hàng B 30 quyển sách, cửa hàng B có bao nhiêu quyển sách ?",comparison,comparison,True
+"đức có 30 quả táo, đức có ít hơn lan 8 quả táo, lan có bao nhiêu quả táo ?",comparison,comparison,True
+"một vườn cây có 60 cây, vườn cây A có nhiều hơn vườn cây B 20 cây, vườn cây B có bao nhiêu cây ?",comparison,comparison,True
+"mạnh có 30 cái ví, quân hơn mạnh 6 cái,quân có bao nhiêu cái ví ?",comparison,comparison,True
+"hoa có 15 quyển vở, hoa có ít hơn lan 4 quyển vở,lan có bao nhiêu quyển vở ?",comparison,comparison,True
+"nam có 10 cái bút,nam có nhiều hơn huy 5 cái bút,huy có bao nhiêu cái bút ?",comparison,comparison,True
+"huy có 8 con gà,huy có ít hơn anh ấy 3 con gà,anh ấy có bao nhiêu con gà ?",comparison,comparison,True
+"nam có 31 cái quần,nam có nhiều hơn mạnh 7 cái quần,mạnh có bao nhiêu cái quần ?",comparison,comparison,True
+"thắng có 50 quyển sách,thắng có ít hơn anh ấy 15 quyển sách,anh ấy có bao nhiêu quyển sách ?",comparison,comparison,True
+"lan cao 1 mét 20 cm,nam cao hơn lan 10 cm,nam cao bao nhiêu mét ?",comparison,comparison,True
+"mạnh nặng 40 kg,quân nặng hơn mạnh 5 kg,quân nặng bao nhiêu kg ?",comparison,comparison,True
+"vườn có 150 cây, số cây ăn quả bằng một phần ba tổng số cây. Hỏi có bao nhiêu cây ăn quả?",ratio,comparison,False

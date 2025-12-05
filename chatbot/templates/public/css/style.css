@@ -1,0 +1,24 @@
+.chat-message {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.bot-message {
+  justify-content: flex-start;
+}
+
+.user-message {
+  justify-content: flex-end;
+}
+
+.message {
+  max-width: 70%;
+}
+
+#chatContainer {
+  background-color: #f8f9fa;
+}
+#chatInput {
+  max-height: 200px;
+  overflow-y: auto;
+}
