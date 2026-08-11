@@ -63,7 +63,7 @@ Hệ thống được xây dựng theo mô hình xử lý dữ liệu theo từn
 
 ## Installation
 1. Clone dự án:
-   git clone <repository-url>
+   git clone https://github.com/khoinong/AI_math_QuizMind.git
 
 2. Vào thư mục dự án:
    cd chatbot
