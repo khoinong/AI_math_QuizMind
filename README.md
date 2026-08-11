@@ -86,10 +86,9 @@ Hệ thống được xây dựng theo mô hình xử lý dữ liệu theo từn
    http://localhost:5000
 
 3. Nhập câu cần xử lý vào giao diện, ví dụ:
-   - Lan có 3 quả táo
-   - Minh cho Lan 2 quả cam
-   - Nam hơn Lan 5 quả
+   - Lan có 3 quả táo,Minh cho Lan 2 quả cam. hỏi lan có mấy quả ?
    - 5 + 3 * 2
+   - 1 quả táo + 3 quả táo
 
 4. Hệ thống sẽ xử lý và trả về kết quả thông qua API hoặc giao diện web.
 
